@@ -1,0 +1,75 @@
+---
+title: "Team members"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+## Members of the lab:  
+
+
+
+**Bjarke Feenstra**  
+```{r, echo=FALSE}
+#knitr::include_graphics("images/BF_telemark2.png")
+```
+Senior researcher, group leader  
+[Twitter](https://twitter.com/bjarkefeenstra)  
+[LinkedIn](https://www.linkedin.com/in/bjarke-feenstra-6230374/)    
+[Contact Bjarke](mailto:fee@ssi.dk)
+
+
+**Frank Geller**  
+Senior researcher  
+
+```{r, echo=FALSE, out.width = "300px"}
+knitr::include_graphics("images/FGE.jpg")
+```
+
+  
+**Xiaoping Wu**  
+Postdoc
+
+```{r, echo=FALSE, out.width = "300px"}
+knitr::include_graphics("images/xiaoping.jpeg")
+```
+[GitHub]("https://xiaoping-wu.github.io/XiaopingWu/")
+
+**Niklas Andersson**  
+PhD student
+
+```{r, echo=FALSE, out.width = "50px"}
+knitr::include_graphics("images/person-icon-1672 (1).png")
+```
+
+**Victor Yakimov**  
+PhD student
+
+```{r, echo=FALSE, out.width = "50px"}
+knitr::include_graphics("images/person-icon-1672 (1).png")
+```
+
+**Salvör Ísberg**  
+Student research assistant  
+[Twitter](https://twitter.com/salvorisberg)  
+[LinkedIn](https://is.linkedin.com/in/salv%C3%B6r-%C3%ADsberg-432561195)  
+
+```{r, echo=FALSE, out.width = "300px"}
+knitr::include_graphics("images/slis_image.png")
+```
+
+**João Fadista**  
+Affiliated researcher
+
+```{r, echo=FALSE, out.width = "50px"}
+knitr::include_graphics("images/person-icon-1672 (1).png")
+```
+
+
+**Line Skotte**  
+Affiliated researcher
+
+```{r, echo=FALSE, out.width = "50px"}
+knitr::include_graphics("images/person-icon-1672 (1).png")
+```
+
