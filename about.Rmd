@@ -1,0 +1,13 @@
+---
+title: "About us"
+description: |
+---
+
+We are a research group in genetic epidemiology affiliated to two different institutions: Copenhagen University Hospital and Statens Serum Institut. Our research is aimed at identifying genetic variants associated with health and disease and understanding the underlying molecular mechanisms. We have a particular focus on pregnancy and selected diseases of childhood, and have extensive experience in combining the use of Denmark's comprehensive, nationwide health registers linked with samples in large-scale biobanks. We thereby contribute to building foundations for subsequent translational research leading to improved prevention, diagnosis and treatment of patients.
+
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```

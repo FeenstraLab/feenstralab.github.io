@@ -1,0 +1,87 @@
+---
+title: "Contact us"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### Location
+In the group, we divide our time between two different locations in Copenhagen. So, you can visit us here (see also map below):
+
+Copenhagen Hospital Biobank Unit  
+Copenhagen University Hospital, Rigshospitalet  
+Tagensvej 20/Ole Maaløesvej 24    
+Entrance 75, 2nd floor, section 7522    
+2200 Copenhagen N   
+Denmark
+
+Statens Serum Institut  
+Dept. of Epidemiology Research    
+Artillerivej 5  
+Buiding 206/220   
+2300 Copenhagen S     
+Denmark  
+
+### Email
+Get in touch with us:   
+fee@ssi.dk    
+bjarke.feenstra@regionh.dk
+
+<!-- 
+```{r, layout="l-screen-inset shaded"}
+library(leaflet)
+
+##content <- paste(sep = "<br/>",
+##  "<b><a href='https://www.ssi.dk/'>Statens Serum Institut</a></b>",
+##  "Artillerivej 5 ",
+##  "2300 København S")
+
+
+m <- leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=12.587480, lat=55.666080, popup = "Statens Serum Institut")  %>%
+  addCircleMarkers(lng = 12.587480, lat = 55.666080, color = 'blue') %>%
+ addMarkers(lng=12.559150, lat=55.698950, popup = "Copenhagen Hospital Biobank Unit")  %>%
+  addCircleMarkers(lng = 12.560487, lat = 55.698987, color = 'red')
+##  addPopups(12.58735, 55.66623, content, options = popupOptions(closeButton = FALSE))
+m
+
+
+
+
+#n <- leaflet() %>%
+ # addTiles() %>%  # Add default OpenStreetMap map tiles
+  #addMarkers(lng=12.560487, lat=55.698987, popup = "Statens Serum Institut")  %>%
+ # addCircleMarkers(lng = 12.560487, lat = 55.698987, color = 'red')
+##  addPopups(12.58735, 55.66623, content, options = popupOptions(closeButton = FALSE))
+#n
+
+
+
+```
+-->
+
+
+
+
+```{r, layout="l-screen-inset shaded"}
+# Change Text Size and text Only and also a custom CSS
+leaflet() %>% addTiles() %>% setView(12.55, 55.69, 12) %>%
+  addMarkers(
+    lng = 12.58858, lat = 55.66562,
+    label = "Statens Serum Institut",
+    labelOptions = labelOptions(noHide = T)) %>%
+  addMarkers(
+    lng = 12.559150, lat = 55.698950,
+    label = "Copenhagen Hospital Biobank Unit",
+    labelOptions = labelOptions(noHide = T)) %>%
+  addMarkers(lng=12.58858, lat=55.66562, popup = "Statens Serum Institut")  %>%
+  addCircleMarkers(lng = 12.58858, lat = 55.66562, color = 'blue') %>%
+ addMarkers(lng=12.559150, lat=55.698950, popup = "Copenhagen Hospital Biobank Unit")  %>%
+  addCircleMarkers(lng = 12.559150, lat = 55.698950, color = 'red')
+
+```
+
+
+
