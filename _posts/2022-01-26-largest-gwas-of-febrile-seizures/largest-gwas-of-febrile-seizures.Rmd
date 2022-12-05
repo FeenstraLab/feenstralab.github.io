@@ -1,0 +1,27 @@
+---
+title: "Largest GWAS of febrile seizures"
+description: |
+  Paper published! Variants in fever response genes and genes for nerve cell signalling associate with febrile seizures.
+date: 01-26-2022
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Discovery of genetic variants linked to febrile seizures
+It is usually an unexpected and frightening experience for parents when their child has a febrile seizure. Occurring in 3-5% of infants febrile seizures are the most common type of abnormal brain activity during childhood. We led a large-scale GWAS in collaboration with other research groups in Denmark and Australia and identified seven novel regions of the genome linked to febrile seizures in the largest genetic study reported for this common childhood disorder.
+
+Here's a summary of the study in [Danish](https://www.ssi.dk/aktuelt/nyheder/2022/nyt-studie-ledet-af-statens-serum-institut-kortlagger-genetiske-arsager-til-feberkramper) and [English](https://en.ssi.dk/news/news/2022/discovery-of-genetic-variants-linked-to-febrile-seizures).
+
+The research is supported by an Ascending Investigator grant from the Lundbeck Foundation, who have also written about our research in [Danish](https://lundbeckfonden.com/uddelinger-priser/forskningshistorier/ny-viden-om-genetiske-arkitektur-bag-feberkramper-hos) and [English](https://lundbeckfonden.com/en/grants-and-prizes/reseach-stories/new-knowledge-about-the-genetic-architecture-underlying-febrile).
+
+The article ["Genome-wide association study of febrile seizures implicates fever response and neuronal excitability genes"](https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awab260/6503584) was published in Brain on 12 January 2022.
+
+
+
+
