@@ -1,0 +1,18 @@
+---
+title: "Preprint: GWAS of placental weight"
+description: |
+  Meta-analysis in 179,025 children and parents.
+date: 2022-12-01
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+The placenta is a remarkable transient organ of pregnancy. With colleagues in the [Early Growth Genetics Consortium](http://egg-consortium.org/), we have conducted the first GWAS of placental weight. The manuscript [“Genome-wide association study of placental weight in 179,025 children and parents reveals distinct and shared genetic influences between placental and fetal growth”](https://www.medrxiv.org/content/10.1101/2022.11.25.22282723v1.full-text) is available in preprint.
+
+
