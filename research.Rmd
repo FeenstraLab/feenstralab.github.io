@@ -1,0 +1,47 @@
+---
+title: "Research"
+---
+
+## Areas of Focus  
+
+The overarching goal of our research is to make robust new biological discoveries, uncovering how variation in the genome, transcriptome or metabolome is associated with health-related traits and diseases. In our projects, we have a particular focus on two main areas: pregnancy and selected diseases in young children. Our studies are typically based on information from Danish health registers (in the form of, e.g., diagnosis and surgery codes) and use biological specimens from the [Danish National Biobank](https://www.danishnationalbiobank.com/) for genotyping and other analyses. Other important resources that we use include the [Danish National Birth Cohort](https://www.dnbc.dk/), the [Danish Blood Donor Study](https://bloddonor.dk/bloddonorstudiet/introduktion-til-det-danske-bloddonorstudie/), [Copenhagen Hospital Biobank](https://www.regionh.dk/forskning-og-innovation/Region-Hovedstadens-biobank/Sider/default.aspx), and the [iPSYCH study](https://ipsych.dk/). These resources allow us to conduct studies that would not be feasible anywhere else in the world  
+
+
+## Highlighted Research Projects  
+### Febrile seizures
+Febrile seizures affect 1 in 25 children before the age of 5, and thereby represent the most common type of pathological brain activity in young children. Yet there is still much to be learned about the underlying genetic, developmental and environmental factors. Based on health register data on hospital admissions with febrile seizures and on samples from the Danish National Biobank, we have carried out the world's largest genome-wide association studies (GWAS) of the condition. For example studies see: 
+
+* Feenstra B, et al. Common variants associated with general and MMR vaccinerelated febrile seizures. Nature Genetics 2014; 46: 1274-1282. Impact factor: 38.330.  [![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1038/ng.3129)
+* Skotte L, et al. Genome-wide association study of febrile seizures implicates fever response and neuronal excitability genes. Brain 2022; 145:555–568. [![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1093/brain/awab260)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wSwozoapOh4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Genetic studies of pregnancy and birth  
+When a woman is pregnant, when she delivers is important to the health of herself and her child. Preterm birth is a major cause of health problems and is the leading cause of death in children under the age of 5 years worldwide. Conversely, if a pregnancy goes far past the due date, the risk of birth complications and stillbirth increases. But what determines when a woman goes into labor? Also, the growth of the fetus and of the placenta are important for proper development of the baby and is associated with future health. In collaboration with numerous international groups, e.g. in the [Early Growth Genetics Consortium](http://egg-consortium.org/), we have identified robust associations between common genetic variation and a range of outcomes related to pregnancy and birth. For example studies see:
+  
+* Zhang, G., et al. Genetic Associations with Gestational Duration and Spontaneous Preterm Birth. N Engl J Med 2017; 377, 1156-1167, [![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1056/NEJMoa1612665)  
+* Beaumont RN, et al. Genome-wide association study of offspring birth weight in 86,577 women identifies five novel loci and highlights maternal genetic effects that are independent of fetal genetics. Human Molecular Genetics 2018; 27, 742-756. [![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1093/hmg/ddx429)
+* Liu, X., et al. Variants in the fetal genome near pro-inflammatory cytokine genes on 2q13 are associated with gestational duration. Nature Communications 2019; 10: 3927, [![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1101/423897)  
+  
+You can hear about the research [In this Podcast](https://www.podbean.com/ew/pb-j2p7j-bde213) 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kyma3SVYt6M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+
+### Genetics, metabolism, and the risk of a digestive system disease in newborns  
+
+The disease pyloric stenosis was characterized by the Danish pediatrician [Harald Hirschsprung](https://en.wikipedia.org/wiki/Harald_Hirschsprung) in the late 19th century. In a series of studies, we analyze genetics and metabolomics using dried blood spot samples obtained a few days after birth. One notable finding is that genetic variants influencing blood lipid levels are also associated with the risk of pyloric stenosis. For example studies see: 
+  
+* Feenstra, B., Geller, F., et al. Common variants near MBNL1 and NKX2-5 are associated with infantile hypertrophic pyloric stenosis. Nature Genetics 2012; 44, 334-337.   [![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1038/ng.1067)
+* Feenstra, B., Geller, F., et al. Plasma lipids, genetic variants near APOA1, and the risk of infantile hypertrophic pyloric stenosis. JAMA 2013; 310, 714-721. [![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1001/jama.2013.242978)  
+* Fadista, J., Skotte, L., et al. Genome-wide meta-analysis identifies BARX1 and EML4-MTA3 as new loci associated with infantile hypertrophic pyloric stenosis. Hum Mol Genet 2019; 28, 332-340. [![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1093/hmg/ddy347)  
+* Fadista J, Skotte L, Courraud J, Geller F, Gørtz S, Wohlfahrt J, Melbye M, Cohen AS, Feenstra B. Integrating genetics with newborn metabolomics in infantile hypertrophic pyloric stenosis. Metabolomics 2021; 17:7.[![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1007/s11306-020-01763-2)  
+
+
+### Genetic studies in Greenland
+For thousands of years, Greenlanders have lived in isolation and have eaten a diet high in fat and low in carbohydrate. We have conducted a population-based health study in seven towns across Greenland and have conducted studies of genetics and metabolism in collaboration with researchers at the University of Copenhagen and elsewhere. For example studies see: 
+
+* Skotte L, et al. A CPT1A missense mutation associated with fatty acid metabolism and reduced height in Greenlanders. Circulation Cardiovascular Genetics 2017; 10 (3):e001618. [![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1161/CIRCGENETICS.116.001618)
+* Andersen MK, et al. Loss of sucrase-isomaltase function increases acetate levels and improves metabolic health in Greenlandic cohorts. Gastroenterology 2022, 162(4), 1171-1182. [![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1053/j.gastro.2021.12.236)
+
+<iframe src="https://player.vimeo.com/video/223094867?h=6261f67c95" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
