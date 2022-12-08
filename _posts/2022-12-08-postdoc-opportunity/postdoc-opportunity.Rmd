@@ -1,0 +1,21 @@
+---
+title: "Postdoc opportunity"
+description: |
+  Join us as a postdoc in seizure genetics!
+date: 2022-12-08
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Are you our new colleague? With support from the Lundbeck Foundation, we now have an open position for a 2-year postdoc fellowship. You will work with the largest genetic data sets on febrile seizures to discover new biology and investigate differences and similarities with epilepsy genetics. The position involves collaboration with leading groups in Denmark and abroad, access to the large genetic data collections in Denmark and lots of opportunities to develop new research ideas.   
+
+Deadline for applications: 9 January 2023.
+
+See more details in the [job ad](https://www.regionh.dk/job/s%C3%B8g-job/Sider/Region-Hovedstaden-soeger.aspx?positionid=245953) and read more about our previous febrile seizures research [here](https://feenstralab.github.io/research.html#febrile-seizures).
+
