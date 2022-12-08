@@ -20,6 +20,10 @@ Jørsboe E, Andersen MK, Skotte L, Færgeman NJ, Hanghøj K, Santander CG, Senft
 
 Skotte L, Fadista J, Bybjerg-Grauholm J, Appadurai V, Hildebrand MS, Hansen TF, Banasik K, Grove J, Albiñana C, Geller F, Bjurström CF, Vilhjálmsson BJ, Coleman M, Damiano JA, Burgess R, Scheffer IE, Pedersen OV, Erikstrup C, Westergaard D, Nielsen KR, Sørensen E, Bruun MT, Liu X, Hjalgrim H, Pers TH, Mortensen PB, Mors O, Nordentoft M, Dreier JW, Børglum AD, Christensen J, David M Hougaard DM, Buil A, Hviid A, Melbye M, Ullum H, Berkovic SF, Werge T, Feenstra B. **Genome-wide association study of febrile seizures implicates fever response and neuronal excitability genes.** Brain 2022; 145:555–568. [![PubMed](./images/pubmed-icon.png "PubMed")](https://pubmed.ncbi.nlm.nih.gov/35022648/){width=0.5%} [![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1093/brain/awab260)
 
+Christensen KJ, Dreier JW, Skotte L, Feenstra B, Grove J, Børglum AD, Mitrovic M, Cotsapas C, Christensen J. **Seasonal variation and risk of febrile seizures; a Danish nationwide cohort study**. Neuroepidemiology 2022; 56:138–145. [![PubMed](./images/pubmed-icon.png "PubMed")](https://pubmed.ncbi.nlm.nih.gov/35051933/){width=0.5%} [![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1159/000522065)
+
+Andersen MK, Skotte L, Jørsboe E, Polito R, Stæger FF, Aldiss P, Hanghøj K, Waples RK, Santander CG, Grarup N, Dahl-Petersen IK, Diaz LJ, Overvad M, Senftleber NK, Søborg B, Larsen CVL, Lemoine C, Pedersen O, Feenstra B, Bjerregaard P, Melbye M, Jørgensen ME, Færgeman NJ, Koch A, Moritz T, Gillum MP, Moltke I, Hansen T, Albrechtsen A. **Loss of sucrase-isomaltase function increases acetate levels and improves metabolic health in Greenlandic cohorts**. Gastroenterology 2022; 162:1171-1182. [![PubMed](./images/pubmed-icon.png "PubMed")](https://pubmed.ncbi.nlm.nih.gov/34914943/){width=0.5%} [![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1053/j.gastro.2021.12.236)
+
 
 ### 2021
 
