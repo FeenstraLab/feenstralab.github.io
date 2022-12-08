@@ -5,6 +5,9 @@ title: "Publications"
 ## Journal articles
 
 ### 2022
+Yengo L, Vedantam S, Marouli E, Sidorenko J, Bartell E, et al. **A Saturated Map of common Genetic Variants Associated with Human Height from 5.4 Million Indi-viduals of Diverse Ancestries**. Nature 2022; 610:704-712. [![PubMed](./images/pubmed-icon.png "PubMed")](https://pubmed.ncbi.nlm.nih.gov/36224396/){width=0.5%} [![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1038/s41586-022-05275-y)
+
+Wang Z, Emmerich A, Pillon NJ, Moore T, Hemerich D, et al. **Genome-wide association analyses of physical activity and sedentary behavior provide insights into underlying mechanisms and roles in disease prevention**. Nature Genetics 2022; 59:1332-1344. [![PubMed](./images/pubmed-icon.png "PubMed")](https://pubmed.ncbi.nlm.nih.gov/36071172/){width=0.5%} [![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1038/s41588-022-01165-1) 
 
 Fadista J, Skotte L, Karjalainen J, Abner E, Sørensen E, Ullum H, Werge T, iPSYCH Group, Esko T, Milani L, Palotie A, Daly M, FinnGen Consortium, Melbye M, Feenstra B, Geller F. **Comprehensive genome-wide association study of different forms of hernia identifies more than 80 associated loci**. Nature Communications 2022; 13:2300. [![PubMed](./images/pubmed-icon.png "PubMed")](https://pubmed.ncbi.nlm.nih.gov/35680855/){width=0.5%} [![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1038/s41467-022-30921-4)
 
