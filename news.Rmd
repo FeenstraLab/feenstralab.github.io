@@ -1,6 +1,6 @@
 ---
 title: "News"
 site: distill::distill_website
-listing: posts
+listing: _posts
 ---
 
