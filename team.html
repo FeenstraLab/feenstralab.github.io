@@ -526,6 +526,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   d-article table.gt_table td,
   d-article table.gt_table th {
     border-bottom: none;
+    font-size: 100%;
   }
 
   .html-widget {
@@ -1598,15 +1599,21 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
       // hoverable references
       $('span.citation[data-cites]').each(function() {
-        if ($(this).children()[0].nodeName == "D-FOOTNOTE") {
-          var fn = $(this).children()[0]
+        const citeChild = $(this).children()[0]
+        // Do not process if @xyz has been used without escaping and without bibliography activated
+        // https://github.com/rstudio/distill/issues/466
+        if (citeChild === undefined) return true
+
+        if (citeChild.nodeName == "D-FOOTNOTE") {
+          var fn = citeChild
           $(this).html(fn.shadowRoot.querySelector("sup"))
           $(this).id = fn.id
           fn.remove()
         }
         var refs = $(this).attr('data-cites').split(" ");
         var refHtml = refs.map(function(ref) {
-          return "<p>" + $('#ref-' + ref).html() + "</p>";
+          // Could use CSS.escape too here, we insure backward compatibility in navigator
+          return "<p>" + $('div[id="ref-' + ref + '"]').html() + "</p>";
         }).join("\n");
         window.tippy(this, {
           allowHTML: true,
@@ -2147,7 +2154,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     color: var(--hover-color, white);
   }</style>
   <!--/radix_placeholder_distill-->
-  <script src="site_libs/header-attrs-2.15/header-attrs.js"></script>
+  <script src="site_libs/header-attrs-2.19/header-attrs.js"></script>
   <script src="site_libs/popper-2.6.0/popper.min.js"></script>
   <link href="site_libs/tippy-6.2.7/tippy.css" rel="stylesheet" />
   <link href="site_libs/tippy-6.2.7/tippy-light-border.css" rel="stylesheet" />
@@ -2210,8 +2217,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </div>
 <p>Senior researcher, group leader<br />
 <a href="https://twitter.com/bjarkefeenstra">Twitter</a><br />
-<a
-href="https://www.linkedin.com/in/bjarke-feenstra-6230374/">LinkedIn</a><br />
+<a href="https://www.linkedin.com/in/bjarke-feenstra-6230374/">LinkedIn</a><br />
 <a href="mailto:fee@ssi.dk">Contact Bjarke</a></p>
 <p><strong>Frank Geller</strong><br />
 Senior researcher</p>
@@ -2223,8 +2229,7 @@ Postdoc</p>
 <div class="layout-chunk" data-layout="l-body">
 <p><img src="images/xiaoping.jpeg" width="300px" /></p>
 </div>
-<p><a
-href="%22https://xiaoping-wu.github.io/XiaopingWu/%22">GitHub</a></p>
+<p><a href="%22https://xiaoping-wu.github.io/XiaopingWu/%22">GitHub</a></p>
 <p><strong>Niklas Andersson</strong><br />
 PhD student</p>
 <div class="layout-chunk" data-layout="l-body">
@@ -2238,23 +2243,21 @@ PhD student</p>
 <p><strong>Salvör Ísberg</strong><br />
 Student research assistant<br />
 <a href="https://twitter.com/salvorisberg">Twitter</a><br />
-<a
-href="https://is.linkedin.com/in/salv%C3%B6r-%C3%ADsberg-432561195">LinkedIn</a></p>
+<a href="https://is.linkedin.com/in/salv%C3%B6r-%C3%ADsberg-432561195">LinkedIn</a></p>
 <div class="layout-chunk" data-layout="l-body">
 <p><img src="images/slis_image.png" width="300px" /></p>
 </div>
 <p><strong>João Fadista</strong><br />
 Affiliated researcher</p>
 <div class="layout-chunk" data-layout="l-body">
-<p><img src="images/person-icon-1672%20(1).png" width="50px" /></p>
+<p><img src="images/joao.jpg" width="300px" /></p>
 </div>
 <p><strong>Line Skotte</strong><br />
 Affiliated researcher</p>
 <div class="layout-chunk" data-layout="l-body">
 <p><img src="images/person-icon-1672%20(1).png" width="50px" /></p>
 </div>
-<div class="sourceCode" id="cb1"><pre
-class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
+<div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
 </div>
