@@ -22,5 +22,5 @@ navbar:
   search: false
 output: 
   distill::distill_article
-
+  ga_measurement_id: G-PJWX01YFRS
 
