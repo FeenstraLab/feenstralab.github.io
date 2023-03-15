@@ -22,3 +22,20 @@ navbar:
   search: false
 output: 
   distill::distill_article
+  includes:
+      after_body:
+        sc_tracking: |
+          <script type="text/javascript">
+            var sc_project=12858634; 
+            var sc_security=45245610; 
+            var sc_invisible=1;
+          </script>
+          <script type="text/javascript" src="https://www.statcounter.com/counter/counter.js" async></script>
+          <noscript>
+            <div class="statcounter">
+              <a title="Web Analytics Made Easy - StatCounter" href="https://statcounter.com/" target="_blank">
+                <img class="statcounter" src="https://c.statcounter.com/12345678/0/YOUR-STATCOUNTER-SECURITY-CODE/1/" alt="Web Analytics Made Easy - StatCounter">
+              </a>
+            </div>
+          </noscript>
+
