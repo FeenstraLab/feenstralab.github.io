@@ -3,7 +3,6 @@ title: "FeenstraLab"
 theme: tidy_color_test.css
 base_url: https://feenstralab.github.io/
 output_dir: "." 
-google_analytics: "G-PJWX01YFRS"
 navbar:
   right:
     - text: "Home"
@@ -23,5 +22,4 @@ navbar:
   search: false
 output: 
   distill::distill_article
- # ga_measurement_id: G-PJWX01YFRS
 
