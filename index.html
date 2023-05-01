@@ -526,6 +526,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   d-article table.gt_table td,
   d-article table.gt_table th {
     border-bottom: none;
+    font-size: 100%;
   }
 
   .html-widget {
@@ -1598,15 +1599,21 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
       // hoverable references
       $('span.citation[data-cites]').each(function() {
-        if ($(this).children()[0].nodeName == "D-FOOTNOTE") {
-          var fn = $(this).children()[0]
+        const citeChild = $(this).children()[0]
+        // Do not process if @xyz has been used without escaping and without bibliography activated
+        // https://github.com/rstudio/distill/issues/466
+        if (citeChild === undefined) return true
+
+        if (citeChild.nodeName == "D-FOOTNOTE") {
+          var fn = citeChild
           $(this).html(fn.shadowRoot.querySelector("sup"))
           $(this).id = fn.id
           fn.remove()
         }
         var refs = $(this).attr('data-cites').split(" ");
         var refHtml = refs.map(function(ref) {
-          return "<p>" + $('#ref-' + ref).html() + "</p>";
+          // Could use CSS.escape too here, we insure backward compatibility in navigator
+          return "<p>" + $('div[id="ref-' + ref + '"]').html() + "</p>";
         }).join("\n");
         window.tippy(this, {
           allowHTML: true,
@@ -2147,7 +2154,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     color: var(--hover-color, white);
   }</style>
   <!--/radix_placeholder_distill-->
-  <script src="site_libs/header-attrs-2.15/header-attrs.js"></script>
+  <script src="site_libs/header-attrs-2.20/header-attrs.js"></script>
   <script src="site_libs/popper-2.6.0/popper.min.js"></script>
   <link href="site_libs/tippy-6.2.7/tippy.css" rel="stylesheet" />
   <link href="site_libs/tippy-6.2.7/tippy-light-border.css" rel="stylesheet" />
@@ -2208,20 +2215,14 @@ background-image:url("./images/ppt_dna_background.png");
 background-size: 100%;
 }  
 </style>
-<h2
-id="we-study-how-genetics-affects-health-and-disease-in-pregnancy-and-childhood">We
-study how genetics affects health and disease in pregnancy and
-childhood</h2>
+<h2 id="we-study-how-genetics-affects-health-and-disease-in-pregnancy-and-childhood">We study how genetics affects health and disease in pregnancy and childhood</h2>
 <div style="width: 1000px; height: 101px;">
 <p><img src="https://cdn.pixabay.com/photo/2017/08/12/18/59/pregnant-2635034_1280.jpg" alt="Pregnancy" width="210" height="135"/>
-<img src="images/dna.jpg" alt="bbc news special" width="210" height="135"/></p>
-</div>
-<div style="width: 1000px; height: 101px;">
-<p><img src="https://cdn.pixabay.com/photo/2022/01/14/15/05/teddy-bear-6937569_1280.jpg" alt="Childhood health" width="210" height="135"/>
+<img src="images/dna.jpg" alt="bbc news special" width="210" height="135"/>
+<img src="https://cdn.pixabay.com/photo/2022/01/14/15/05/teddy-bear-6937569_1280.jpg" alt="Childhood health" width="210" height="135"/>
 <img src="https://cdn.pixabay.com/photo/2022/01/18/23/09/greenland-6948495_1280.jpg" alt="Greenland" width="210" height="135"/></p>
 </div>
-<div class="sourceCode" id="cb1"><pre
-class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
+<div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
 </div>
