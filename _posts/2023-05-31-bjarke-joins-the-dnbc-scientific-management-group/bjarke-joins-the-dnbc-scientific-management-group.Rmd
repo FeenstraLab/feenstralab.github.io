@@ -1,0 +1,16 @@
+---
+title: "Danish National Birth Cohort management"
+description: |
+  Bjarke joins the DNBC scientific management group.
+date: 2023-02-01
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+The Danish National Birth Cohort ([DNBC](https://www.dnbc.dk/)) was established in the late 1990's with the aim to to recruit 100,000 women early in pregnancy, and to continue follow-up for decades. We have worked extensively with data and biological samples from the DNBC and now Bjarke has joined the DNBC scientific management group to help further develop this unique resource for research.  
+
