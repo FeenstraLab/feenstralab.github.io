@@ -1,5 +1,17 @@
 [
   {
+    "path": "posts/2023-05-31-genetics-of-pregnancy-duration/",
+    "title": "Genetics of pregnancy duration",
+    "description": "Paper published: Maternal GWAS of gestational duration and preterm birth.",
+    "author": [],
+    "date": "2023-04-04",
+    "categories": [],
+    "contents": "\r\nAs part of our long-standing research into genetics of pregnancy outcomes, we contributed to the new international GWAS meta-analysis of gestational duration and preterm birth. The study included analyses of almost 200,000 women and detected 22 loci (16 novel) associated with gestational duration and revealed complex links to birth weight genetics.\r\nThe article Genetic effects on the timing of parturition and links to fetal birth weight was published in Nature Genetics on 3 April 2023.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2023-05-31T15:51:52+02:00",
+    "input_file": "genetics-of-pregnancy-duration.knit.md"
+  },
+  {
     "path": "posts/2023-05-31-bjarke-joins-the-dnbc-scientific-management-group/",
     "title": "Danish National Birth Cohort management",
     "description": "Bjarke joins the DNBC scientific management group.",

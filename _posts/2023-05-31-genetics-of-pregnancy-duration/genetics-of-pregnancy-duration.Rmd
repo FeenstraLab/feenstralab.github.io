@@ -1,0 +1,18 @@
+---
+title: "Genetics of pregnancy duration"
+description: |
+  Paper published: Maternal GWAS of gestational duration and preterm birth.
+date: 2023-04-04
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+As part of our long-standing research into genetics of [pregnancy outcomes](https://feenstralab.github.io/research.html#genetic-studies-of-pregnancy-and-birth), we contributed to the new international GWAS meta-analysis of gestational duration and preterm birth. The study included analyses of almost 200,000 women and detected 22 loci (16 novel) associated with gestational duration and revealed complex links to birth weight genetics. 
+
+The article [Genetic effects on the timing of parturition and links to fetal birth weight](https://www.nature.com/articles/s41588-023-01343-9) was published in Nature Genetics on 3 April 2023. 
+
