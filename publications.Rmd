@@ -4,6 +4,10 @@ title: "Publications"
 
 ## Journal articles
 
+### 2023
+Solé-Navais P, Flatley C, Steinthorsdottir V, Vaudel M, Juodakis J, et al. **Genetic effects on the timing of parturition and links to fetal birth weight**. Nature Genetics 2023; 55:559-567.
+[![PubMed](./images/pubmed-icon.png "PubMed")](https://pubmed.ncbi.nlm.nih.gov/37012456/){width=0.5%} [![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1038/s41588-023-01343-9)
+
 ### 2022
 Yengo L, Vedantam S, Marouli E, Sidorenko J, Bartell E, et al. **A Saturated Map of common Genetic Variants Associated with Human Height from 5.4 Million Indi-viduals of Diverse Ancestries**. Nature 2022; 610:704-712. [![PubMed](./images/pubmed-icon.png "PubMed")](https://pubmed.ncbi.nlm.nih.gov/36224396/){width=0.5%} [![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1038/s41586-022-05275-y)
 
