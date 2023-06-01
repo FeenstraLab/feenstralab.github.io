@@ -13,4 +13,4 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-We don't have open positions right now, but are always interested in connecting with motivated students and postdocs, so feel free to get in touch if you are interested in joining our lab!
+Although we have no open positions right now, we are always interested in connecting with motivated students and postdocs, so feel free to get in touch if you are interested in joining our lab!
