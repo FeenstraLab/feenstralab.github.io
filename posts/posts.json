@@ -1,5 +1,17 @@
 [
   {
+    "path": "posts/2023-08-01-join-our-group/",
+    "title": "Join our group!",
+    "description": "Postdoc in the genetics of febrile seizures and epilepsy.",
+    "author": [],
+    "date": "2023-08-01",
+    "categories": [],
+    "contents": "\r\nAre you interested in taking our research in the genetics of seizures to the next level?\r\nWe now have an opening for a 2-year fully funded postdoc position in a collaborative setup between the Biobank Unit at Copenhagen University Hospital and Statens Serum Institut, home of the Danish National Biobank. You will work with the world’s largest genetic data sets on febrile seizures to discover genetic variation associated with this common childhood disease and understand the connections to epilepsy genetics.\r\nYou can read much more about the position and our group in the full job ad. Feel free to get in touch for further information about the position.\r\nGenetics of febrile seizures and the similarities and differences with epilepsy genetics is one of our core research areas. Some of our previous work is described here.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2023-08-01T16:12:12+02:00",
+    "input_file": "join-our-group.knit.md"
+  },
+  {
     "path": "posts/2023-05-31-genetics-of-pregnancy-duration/",
     "title": "Genetics of pregnancy duration",
     "description": "Paper published: Maternal GWAS of gestational duration and preterm birth.",
