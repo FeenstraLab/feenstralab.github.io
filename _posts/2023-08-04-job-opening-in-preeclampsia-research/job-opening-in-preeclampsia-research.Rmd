@@ -1,0 +1,18 @@
+---
+title: "Job opening in preeclampsia research"
+description: |
+  Postdoc in proteomic and metabolomic analyses of preeclampsia.
+date: 2023-07-30
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+In collaboration with senior researcher, group leader [Heather Boyd](https://www.ssi.dk/om-ssi/kontakt/medarbejdere/h/heather-boyd-hoy) at Statens Serum Institut, we have an opening for a 2-year fully funded postdoc position. You will help us harness proteomic and metabolomic profiles to improve personalized medicine in women who had preeclampsia, by identifying signatures that predict risk of cardiovascular disease in these women. 
+
+You can read much more about the position in the full [job ad](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=170866&DepartmentId=10138&MediaId=2801). Feel free to get in touch for further information about the position.  
