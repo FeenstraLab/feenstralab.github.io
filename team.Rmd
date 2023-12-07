@@ -33,7 +33,7 @@ Postdoc
 ```{r, echo=FALSE, out.width = "300px"}
 knitr::include_graphics("images/xiaoping.jpeg")
 ```
-[GitHub]("https://xiaoping-wu.github.io/XiaopingWu/")
+[GitHub](https://xiaoping-wu.github.io/XiaopingWu/)
 
 **Niklas Andersson**  
 PhD student
@@ -43,14 +43,24 @@ knitr::include_graphics("images/niklas.png")
 ```
 
 **Victor Yakimov**  
-PhD student
+Postdoc
 
 ```{r, echo=FALSE, out.width = "300px"}
 knitr::include_graphics("images/victor.png")
 ```
 
+**Freja Dahl Hede**    
+Research assistant
+
+```{r, echo=FALSE, out.width = "50px"}
+knitr::include_graphics("images/person-icon-1672 (1).png")
+```
+
+
+## Alumni:  
+
 **Salvör Ísberg**  
-Student research assistant  
+Student research assistant and Master's student  
 [Twitter](https://twitter.com/salvorisberg)  
 [LinkedIn](https://is.linkedin.com/in/salv%C3%B6r-%C3%ADsberg-432561195)  
 
@@ -59,17 +69,53 @@ knitr::include_graphics("images/slis_image.png")
 ```
 
 **João Fadista**  
-Affiliated researcher
+Postdoc and senior researcher 2015-2020
 
 ```{r, echo=FALSE, out.width = "300px"}
 knitr::include_graphics("images/joao.jpg")
 ```
 
-
 **Line Skotte**  
-Affiliated researcher
+Postdoc and researcher 2015-2020
 
 ```{r, echo=FALSE, out.width = "50px"}
 knitr::include_graphics("images/person-icon-1672 (1).png")
 ```
 
+**Carmen Flores Bjurström**
+MSc student, bioinformatics 2020
+
+```{r, echo=FALSE, out.width = "50px"}
+knitr::include_graphics("images/person-icon-1672 (1).png")
+```
+
+**Xueping Liu**
+Postdoc advisor 2015-2018
+
+```{r, echo=FALSE, out.width = "50px"}
+knitr::include_graphics("images/person-icon-1672 (1).png")
+```
+
+**Jonas Bille Nielsen**
+Research visits 2018-2019
+
+**Klaus Rune Christiansen**
+MSc student, statistics 2016-2017
+
+**Piotr Dworzynski**
+Computer scientist 2015-2016
+
+**Lisbeth Carstensen**
+Statistician 2010-2014
+
+**Thilde Marie Haspang** 
+MSc student, statistics 2012-2013 
+
+**Kåre Sylvest Jacobsen** 
+MSc student, statistics 2011-2012 
+
+**Gudmundur A. Hardarson** 
+Visiting researcher 2010-2011
+
+**Hao Zhang**
+Bioinformatician 2009-2010

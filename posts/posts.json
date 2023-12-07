@@ -9,7 +9,7 @@
     "contents": "\r\nA well-functioning placenta is essential for fetal and maternal health throughout pregnancy. Using placental weight as a proxy for placental growth, we together with colleagues in the Early Growth Genetics Consortium have conducted the first GWAS of placental weight. The manuscript “Genome-wide association study of placental weight identifies distinct and shared genetic influences between placental and fetal growth” is now published in Nature Genetics.\r\nThe findings of the study include 40 independent association signals, most of which have an effect through the fetal genome. We found a partial overlap with known birth weight loci, but 12 loci were predominantly or only related to placental weight. These loci harbour genes with connections to placental development and function. We also observed a maternal parent-of-origin effect near KCNQ1. Moreover, we found that fetal genetically mediated higher PW raises preeclampsia risk and shortens gestational duration, and we demonstrated a role for fetal insulin in regulating placental growth.\r\nPål Njølstad, Rachel Freathy, and Bjarke also wrote an accompanying Research Briefing.\r\nHere’s a summary of the study in Danish and English.\r\nThe research was partially funded by the Independent Research Fund Denmark and the Novo Nordisk Foundation.\r\n\r\n\r\n\r\n",
     "preview": {},
     "last_modified": "2023-12-07T16:43:12+01:00",
-    "input_file": "placenta-weight-study.knit.md"
+    "input_file": {}
   },
   {
     "path": "posts/2023-08-01-join-our-group/",
@@ -21,7 +21,7 @@
     "contents": "\r\nAre you interested in taking our research in the genetics of seizures to the next level?\r\nWe now have an opening for a 2-year fully funded postdoc position in a collaborative setup between the Biobank Unit at Copenhagen University Hospital and Statens Serum Institut, home of the Danish National Biobank. You will work with the world’s largest genetic data sets on febrile seizures to discover genetic variation associated with this common childhood disease and understand the connections to epilepsy genetics.\r\nYou can read much more about the position and our group in the full job ad. Feel free to get in touch for further information about the position.\r\nGenetics of febrile seizures and the similarities and differences with epilepsy genetics is one of our core research areas. Some of our previous work is described here.\r\n\r\n\r\n\r\n",
     "preview": {},
     "last_modified": "2023-08-01T16:12:12+02:00",
-    "input_file": "join-our-group.knit.md"
+    "input_file": {}
   },
   {
     "path": "posts/2023-08-04-job-opening-in-preeclampsia-research/",
@@ -33,7 +33,7 @@
     "contents": "\r\nIn collaboration with senior researcher, group leader Heather Boyd at Statens Serum Institut, we have an opening for a 2-year fully funded postdoc position. You will help us harness proteomic and metabolomic profiles to improve personalized medicine in women who had preeclampsia, by identifying signatures that predict risk of cardiovascular disease in these women.\r\nYou can read much more about the position in the full job ad. Feel free to get in touch for further information about the position.\r\n\r\n\r\n\r\n",
     "preview": {},
     "last_modified": "2023-08-04T15:51:56+02:00",
-    "input_file": "job-opening-in-preeclampsia-research.knit.md"
+    "input_file": {}
   },
   {
     "path": "posts/2023-05-31-genetics-of-pregnancy-duration/",
@@ -44,8 +44,8 @@
     "categories": [],
     "contents": "\r\nAs part of our long-standing research into genetics of pregnancy outcomes, we contributed to the new international GWAS meta-analysis of gestational duration and preterm birth. The study included analyses of almost 200,000 women and detected 22 loci (16 novel) associated with gestational duration and revealed complex links to birth weight genetics.\r\nThe article Genetic effects on the timing of parturition and links to fetal birth weight was published in Nature Genetics on 3 April 2023.\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2023-05-31T15:51:52+02:00",
-    "input_file": "genetics-of-pregnancy-duration.knit.md"
+    "last_modified": "2023-05-31T17:22:10+02:00",
+    "input_file": {}
   },
   {
     "path": "posts/2022-12-08-postdoc-opportunity/",
@@ -57,7 +57,7 @@
     "contents": "\r\nAlthough we have no open positions right now, we are always interested in connecting with motivated students and postdocs, so feel free to get in touch if you are interested in joining our lab!\r\n\r\n\r\n\r\n",
     "preview": {},
     "last_modified": "2023-06-01T09:01:24+02:00",
-    "input_file": "postdoc-opportunity.knit.md"
+    "input_file": {}
   },
   {
     "path": "posts/2023-05-31-bjarke-joins-the-dnbc-scientific-management-group/",
@@ -68,8 +68,8 @@
     "categories": [],
     "contents": "\r\nThe Danish National Birth Cohort (DNBC) was established in the late 1990’s with the aim to to recruit 100,000 women early in pregnancy, and to continue follow-up for decades. We have worked extensively with data and biological samples from the DNBC and now Bjarke has joined the DNBC scientific management group to help further develop this unique resource for research.\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2023-05-31T15:30:16+02:00",
-    "input_file": "bjarke-joins-the-dnbc-scientific-management-group.knit.md"
+    "last_modified": "2023-05-31T17:22:10+02:00",
+    "input_file": {}
   },
   {
     "path": "posts/2022-12-08-preprint-gwas-of-placental-weight/",
@@ -80,7 +80,7 @@
     "categories": [],
     "contents": "\r\nThe placenta is a remarkable transient organ of pregnancy. With colleagues in the Early Growth Genetics Consortium, we have conducted the first GWAS of placental weight. The manuscript “Genome-wide association study of placental weight in 179,025 children and parents reveals distinct and shared genetic influences between placental and fetal growth” is available in preprint.\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2023-05-31T14:10:52+02:00",
+    "last_modified": "2023-05-31T17:22:10+02:00",
     "input_file": {}
   },
   {
@@ -92,7 +92,7 @@
     "categories": [],
     "contents": "\r\nHernias are characterized by protrusion of an organ or tissue through\r\nits surrounding cavity and often requires surgery.\r\nWe performed genome-wide association study (GWAS) scans on 65,492\r\ncases of five different types of hernia and two combined groups against\r\ncontrols without a history of any hernia in UK Biobank data. The initial\r\nfindings for inguinal hernia were followed up in 23,803 additional cases\r\nin cohorts from Finland, Estonia and Denmark.\r\nHere’s a summary of the study in Danish\r\nand English.\r\nThe article “Comprehensive\r\ngenome-wide association study of different forms of hernia identifies\r\nmore than 80 associated loci” was published in Nature Communications\r\non June 9th 2022.\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2023-05-31T13:54:23+02:00",
+    "last_modified": "2023-05-31T17:22:10+02:00",
     "input_file": {}
   },
   {
@@ -104,7 +104,7 @@
     "categories": [],
     "contents": "\r\nDiscovery\r\nof genetic variants linked to febrile seizures\r\nIt is usually an unexpected and frightening experience for parents\r\nwhen their child has a febrile seizure. Occurring in 3-5% of infants\r\nfebrile seizures are the most common type of abnormal brain activity\r\nduring childhood. We led a large-scale GWAS in collaboration with other\r\nresearch groups in Denmark and Australia and identified seven novel\r\nregions of the genome linked to febrile seizures in the largest genetic\r\nstudy reported for this common childhood disorder.\r\nHere’s a summary of the study in Danish\r\nand English.\r\nThe research is supported by an Ascending Investigator grant from the\r\nLundbeck Foundation, who have also written about our research in Danish\r\nand English.\r\nThe article “Genome-wide\r\nassociation study of febrile seizures implicates fever response and\r\nneuronal excitability genes” was published in Brain on 12 January\r\n2022.\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2023-05-31T13:54:23+02:00",
+    "last_modified": "2023-05-31T17:22:10+02:00",
     "input_file": {}
   }
 ]

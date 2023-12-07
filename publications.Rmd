@@ -5,6 +5,22 @@ title: "Publications"
 ## Journal articles
 
 ### 2023
+Beaumont RN, Flatley C, Vaudel M, Wu X, Chen J, et al. **Genome-wide association study of placental weight identifies distinct and shared genetic influences between placental and fetal growth**. 
+Nature Genetics 2023; 55:1807–1819.
+[![PubMed](./images/pubmed-icon.png "PubMed")](https://pubmed.ncbi.nlm.nih.gov/37798380/){width=0.5%} [![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1038/s41588-023-01520-w)
+
+Pasanen A, Karjalainen MK, FinnGen, Zhang G, Tiensuu H, Haapalainen AM, Ojaniemi M, Feenstra B, Jacobsson B, Palotie A, Laivuori H, Muglia LJ, Rämet M, Hallman M. **Meta-analysis of genome-wide associations studies of gestational duration and spontaneous preterm birth identifies new maternal risk loci**.
+PLoS Genetics 2023; 19(10), e1010982.
+[![PubMed](./images/pubmed-icon.png "PubMed")](https://pubmed.ncbi.nlm.nih.gov/37871108/){width=0.5%} [![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1371/journal.pgen.1010982)
+
+Budu-Aggrey A, Kilanowski A, Sobczyk MK, 23andMe Research Team, Shringarpure SS, et al. **European and multi-ancestry genome-wide association meta-analysis of atopic dermatitis highlights importance of systemic immune regulation**.
+Nature Communications 2023; 14 (1), 6172.
+[![PubMed](./images/pubmed-icon.png "PubMed")](https://pubmed.ncbi.nlm.nih.gov/37794016/){width=0.5%} [![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1038/s41467-023-41180-2)
+
+The COVID-19 Host Genetics Initiative. **A second update on mapping the human genetic architecture of COVID-19**.
+Nature 2023; 621: E7–E26.
+[![PubMed](./images/pubmed-icon.png "PubMed")](https://pubmed.ncbi.nlm.nih.gov/37674002/){width=0.5%} [![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1038/s41586-023-06355-3)
+
 Solé-Navais P, Flatley C, Steinthorsdottir V, Vaudel M, Juodakis J, et al. **Genetic effects on the timing of parturition and links to fetal birth weight**. Nature Genetics 2023; 55:559-567.
 [![PubMed](./images/pubmed-icon.png "PubMed")](https://pubmed.ncbi.nlm.nih.gov/37012456/){width=0.5%} [![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1038/s41588-023-01343-9)
 
@@ -290,8 +306,11 @@ Armstrong DP, Castro I, Alley JC, Feenstra B, Perrott JK. **Mortality and behavi
 
 
 ## Letters  
+Njølstad PR, Feenstra B, Freathy RM. **Regulation of placental growth is a complex interplay of maternal and fetal genomes**.
+Nature Genetics 2023; 55:1786–1787.
+[![PubMed](./images/pubmed-icon.png "PubMed")](https://pubmed.ncbi.nlm.nih.gov/37798381/){width=0.5%}
+[![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1038/s41588-023-01519-3)
 
 Pasternak B, Feenstra B, Melbye M, Hviid A. **Improving vaccine safety through a better understanding of vaccine adverse events.** Clin. Infect. Dis. 2015; 60(10):1586-1587.  
-
 
 Geller F, Feenstra B, Melbye M. **No association between sex ratio of offspring and the mother’s age at menarche (letter to the editor).** Hum Reprod. 2011; 26: 3202-3203
