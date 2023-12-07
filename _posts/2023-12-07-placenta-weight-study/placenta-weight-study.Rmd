@@ -1,0 +1,24 @@
+---
+title: "Placenta weight study"
+description: |
+  First GWAS of placental weight published in Nature Genetics
+date: 2023-10-07
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+A well-functioning placenta is essential for fetal and maternal health throughout pregnancy. Using placental weight as a proxy for placental growth, we together with colleagues in the [Early Growth Genetics Consortium](http://egg-consortium.org/) have conducted the first GWAS of placental weight. The manuscript [“Genome-wide association study of placental weight identifies distinct and shared genetic influences between placental and fetal growth”](https://www.nature.com/articles/s41588-023-01520-w) is now published in Nature Genetics.
+
+The findings of the study include 40 independent association signals, most of which have an effect through the fetal genome. We found a partial overlap with known birth weight loci, but 12 loci were predominantly or only related to placental weight. These loci harbour genes with connections to placental development and function. We also observed a maternal parent-of-origin effect near <i>KCNQ1</i>. Moreover, we found that fetal genetically mediated higher PW raises preeclampsia risk and shortens gestational duration, and we demonstrated a role for fetal insulin in regulating placental growth.
+
+[Pål Njølstad](https://www.uib.no/en/persons/P%C3%A5l.Rasmus.Nj%C3%B8lstad), [Rachel Freathy](https://medicine.exeter.ac.uk/people/profile/index.php?web_id=Rachel_Freathy), and Bjarke also wrote an accompanying [Research Briefing](https://www.nature.com/articles/s41588-023-01519-3).
+
+Here's a summary of the study in [Danish](https://www.ssi.dk/aktuelt/nyheder/2023/genvarianter-med-betydning-for-moderkagens-vaekst-afsloeret) and [English](https://en.ssi.dk/news/news/2023/new-research-sheds-light-on-genetics-of-placenta-growth).
+
+The research was partially funded by the Independent Research Fund Denmark and the Novo Nordisk Foundation.

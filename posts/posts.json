@@ -1,5 +1,17 @@
 [
   {
+    "path": "posts/2023-12-07-placenta-weight-study/",
+    "title": "Placenta weight study",
+    "description": "First GWAS of placental weight published in Nature Genetics",
+    "author": [],
+    "date": "2023-10-07",
+    "categories": [],
+    "contents": "\r\nA well-functioning placenta is essential for fetal and maternal health throughout pregnancy. Using placental weight as a proxy for placental growth, we together with colleagues in the Early Growth Genetics Consortium have conducted the first GWAS of placental weight. The manuscript “Genome-wide association study of placental weight identifies distinct and shared genetic influences between placental and fetal growth” is now published in Nature Genetics.\r\nThe findings of the study include 40 independent association signals, most of which have an effect through the fetal genome. We found a partial overlap with known birth weight loci, but 12 loci were predominantly or only related to placental weight. These loci harbour genes with connections to placental development and function. We also observed a maternal parent-of-origin effect near KCNQ1. Moreover, we found that fetal genetically mediated higher PW raises preeclampsia risk and shortens gestational duration, and we demonstrated a role for fetal insulin in regulating placental growth.\r\nPål Njølstad, Rachel Freathy, and Bjarke also wrote an accompanying Research Briefing.\r\nHere’s a summary of the study in Danish and English.\r\nThe research was partially funded by the Independent Research Fund Denmark and the Novo Nordisk Foundation.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2023-12-07T16:43:12+01:00",
+    "input_file": "placenta-weight-study.knit.md"
+  },
+  {
     "path": "posts/2023-08-01-join-our-group/",
     "title": "Join our group!",
     "description": "Postdoc in the genetics of febrile seizures and epilepsy.",
