@@ -11,9 +11,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 **Bjarke Feenstra**  
 ```{r, echo=FALSE, out.width = "300px"}
-knitr::include_graphics("images/bjarke.png")
+knitr::include_graphics("images/Bjarke_Iceland.jpg")
 ```
-Senior researcher, group leader  
+Senior researcher, group leader, professor  
 [Bluesky](https://bsky.app/profile/bfeenstra.bsky.social)  
 [LinkedIn](https://www.linkedin.com/in/bjarke-feenstra-6230374/)    
 [Contact Bjarke](mailto:fee@ssi.dk)
