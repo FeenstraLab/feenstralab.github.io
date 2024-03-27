@@ -51,8 +51,8 @@ knitr::include_graphics("images/person-icon-1672 (1).png")
 **Giulia Barbieri**    
 Visiting PhD student
 
-```{r, echo=FALSE, out.width = "50px"}
-knitr::include_graphics("images/person-icon-1672 (1).png")
+```{r, echo=FALSE, out.width = "300px"}
+knitr::include_graphics("images/Giulia_B.jpg")
 ```
 
 
