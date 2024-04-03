@@ -34,13 +34,6 @@ PhD student
 knitr::include_graphics("images/niklas.png")
 ```
 
-**Victor Yakimov**  
-Postdoc
-
-```{r, echo=FALSE, out.width = "300px"}
-knitr::include_graphics("images/victor.png")
-```
-
 **Freja Dahl Hede**    
 Research assistant
 
@@ -55,8 +48,21 @@ Visiting PhD student
 knitr::include_graphics("images/Giulia_B.jpg")
 ```
 
+**Janne Auning Hansen** 
+PhD student at Aarhus University (co-supervised by Bjarke)
+
+```{r, echo=FALSE, out.width = "50px"}
+knitr::include_graphics("images/person-icon-1672 (1).png")
+```
 
 ## Alumni:  
+
+**Victor Yakimov**  
+Bioinformatician, PhD student, Postdoc 2014-2024
+
+```{r, echo=FALSE, out.width = "300px"}
+knitr::include_graphics("images/victor.png")
+```
 
 **Xiaoping Wu**  
 Postdoc 2021-2024
