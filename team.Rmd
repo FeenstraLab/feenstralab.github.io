@@ -48,7 +48,7 @@ Visiting PhD student
 knitr::include_graphics("images/Giulia_B.jpg")
 ```
 
-**Janne Auning Hansen** 
+**Janne Auning Hansen**    
 PhD student at Aarhus University (co-supervised by Bjarke)
 
 ```{r, echo=FALSE, out.width = "50px"}
