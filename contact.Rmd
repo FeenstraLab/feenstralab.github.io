@@ -10,9 +10,9 @@ knitr::opts_chunk$set(echo = FALSE)
 We are located at the historic campus of Statens Serum Institut in central Copenhagen. So, you can visit us here (see also map below):
 
 Statens Serum Institut  
-Dept. of Epidemiology Research    
+Dept. of Congenital Disorders    
 Artillerivej 5  
-Buiding 206/220   
+Buiding 206   
 2300 Copenhagen S     
 Denmark  
 
