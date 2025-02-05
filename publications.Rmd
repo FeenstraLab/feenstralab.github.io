@@ -4,6 +4,32 @@ title: "Publications"
 
 ## Journal articles
 
+### 2024
+Solé-Navais P, Juodakis J, Ytterberg K, Wu X, Bradfield JP, et al. **Genome-wide analyses of neonatal jaundice reveal a marked departure from adult bilirubin metabolism**.
+Nature Communications 2024; 15: 7550.
+[![PubMed](./images/pubmed-icon.png "PubMed")](https://pubmed.ncbi.nlm.nih.gov/39214992/){width=0.5%}
+[![doi](./images/doi_logo_small2.png "doi")]{width=0.5%}
+
+Westergaard D, Steinthorsdottir V, Stefansdottir L, Rohde PD, Wu X, et al. **Genome-wide association meta-analysis identifies five loci associated with postpartum hemorrhage**. 
+Nature Genetics 2024; 56:1597–1603.
+[![PubMed](./images/pubmed-icon.png "PubMed")](https://pubmed.ncbi.nlm.nih.gov/39039282/){width=0.5%}
+[![doi](./images/doi_logo_small2.png "doi")]{width=0.5%}
+
+Borges MC, Clayton G, Freathy RM, Felix JF, Fernández-Sanlés A, et al. **Integrating multiple lines of evidence to assess the effects of maternal BMI on pregnancy and perinatal outcomes**. 
+BMC Medicine 2024; 22:32.
+[![PubMed](./images/pubmed-icon.png "PubMed")](https://pubmed.ncbi.nlm.nih.gov/38281920/){width=0.5%}
+[![doi](./images/doi_logo_small2.png "doi")]{width=0.5%}
+
+Sequeros CB, Tulstrup M, Bliddal S, Sørensen KM, Nissen I, et al. **Clonal hematopoiesis and COVID‐19 hospitalization in Danish adults**. 
+HemaSphere 2024, 8(3), e58.
+[![PubMed](./images/pubmed-icon.png "PubMed")](https://pubmed.ncbi.nlm.nih.gov/38463443/){width=0.5%}
+[![doi](./images/doi_logo_small2.png "doi")]{width=0.5%}
+
+Andersson NW, Wohlfahrt J, Feenstra B, Hviid A, Melbye M, Lund M. **Cumulative incidence of thiazide-induced hyponatremia: a population-based cohort study**. 
+Annals of Internal Medicine 2024; 177:1-11.
+[![PubMed](./images/pubmed-icon.png "PubMed")](https://pubmed.ncbi.nlm.nih.gov/38109740/){width=0.5%}
+[![doi](./images/doi_logo_small2.png "doi")]{width=0.5%}
+
 ### 2023
 Beaumont RN, Flatley C, Vaudel M, Wu X, Chen J, et al. **Genome-wide association study of placental weight identifies distinct and shared genetic influences between placental and fetal growth**. 
 Nature Genetics 2023; 55:1807–1819.
