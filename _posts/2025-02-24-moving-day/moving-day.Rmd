@@ -1,0 +1,17 @@
+---
+title: "Moving day"
+description: |
+  The genetic epidemiology group joins the Department of Congenital Disorders at Statens Serum Institut.
+date: 2025-01-01
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+Our research group has moved to the [Department of Congenital Disorders](https://en.ssi.dk/about-us/contact/departments/c/congenital-disorders) within Statens Serum Institut at the beginning of 2025. This move will strengthen ‘omics-based epidemiological research in the [Early Life Health strategic research area of SSI](https://www.ssi.dk/om-ssi/maal-og-opgaver/forskningsstrategi). We are excited to be working closely with department head Mette Nyegaard and her team on research into pregnancy and childhood diseases 🤰🌱 At the same time, we are grateful for having been part of a unique environment at the Dept. of Epidemiology Research also at Statens Serum Institut with fantastic colleagues and projects throughout the years.

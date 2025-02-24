@@ -18,7 +18,6 @@ Senior researcher, group leader, professor
 [LinkedIn](https://www.linkedin.com/in/bjarke-feenstra-6230374/)    
 [Contact Bjarke](mailto:fee@ssi.dk)
 
-
 **Frank Geller**  
 Senior researcher  
 
@@ -26,36 +25,56 @@ Senior researcher
 knitr::include_graphics("images/FGE.jpg")
 ```
 
-
-**Niklas Andersson**  
-PhD student
-
-```{r, echo=FALSE, out.width = "300px"}
-knitr::include_graphics("images/niklas.png")
-```
-
 **Freja Dahl Hede**    
-Research assistant
+Bioinformatician
 
 ```{r, echo=FALSE, out.width = "300px"}
 knitr::include_graphics("images/FREH.jpg")
 ```
 
-**Giulia Barbieri**    
-Visiting PhD student
+**Anders Husby**    
+Researcher, MD, PhD
 
-```{r, echo=FALSE, out.width = "300px"}
-knitr::include_graphics("images/Giulia_B.jpg")
+```{r, echo=FALSE, out.width = "50px"}
+knitr::include_graphics("images/person-icon-1672 (1).png")
 ```
 
 **Janne Auning Hansen**    
 PhD student at Aarhus University (co-supervised by Bjarke)
+
+```{r, echo=FALSE, out.width = "300px"}
+knitr::include_graphics("images/Janne.jpg")
+```
+
+**Katerina Nastou**    
+Postdoc (primary advisor Heather Boyd, SSI. Joint projects with our group)
+
+```{r, echo=FALSE, out.width = "50px"}
+knitr::include_graphics("images/person-icon-1672 (1).png")
+```
+
+**Emil Jørsboe**    
+Affiliated postdoc (primary advisor Torben Hansen, CBMR, KU. Joint projects with our group)
 
 ```{r, echo=FALSE, out.width = "50px"}
 knitr::include_graphics("images/person-icon-1672 (1).png")
 ```
 
 ## Alumni:  
+
+**Niklas Andersson**  
+PhD student 2021-2024
+
+```{r, echo=FALSE, out.width = "300px"}
+knitr::include_graphics("images/niklas.png")
+```
+
+**Giulia Barbieri**    
+Visiting PhD student 2024
+
+```{r, echo=FALSE, out.width = "300px"}
+knitr::include_graphics("images/Giulia_B.jpg")
+```
 
 **Victor Yakimov**  
 Bioinformatician, PhD student, Postdoc 2014-2024
