@@ -35,8 +35,8 @@ knitr::include_graphics("images/FREH.jpg")
 **Anders Husby**    
 Researcher, MD, PhD
 
-```{r, echo=FALSE, out.width = "50px"}
-knitr::include_graphics("images/person-icon-1672 (1).png")
+```{r, echo=FALSE, out.width = "300px"}
+knitr::include_graphics("images/AndersHusby_RH_presse_foto_besk.jpg")
 ```
 
 **Janne Auning Hansen**    
@@ -63,7 +63,7 @@ knitr::include_graphics("images/EmilJorsboe.png")
 ## Alumni:  
 
 **Niklas Andersson**  
-PhD student 2021-2024
+MD, PhD student 2021-2024
 
 ```{r, echo=FALSE, out.width = "300px"}
 knitr::include_graphics("images/niklas.png")
@@ -93,8 +93,6 @@ knitr::include_graphics("images/xiaoping.jpeg")
 
 **Salvör Ísberg**  
 Student research assistant and Master's student 2021-2023 
-[Twitter](https://twitter.com/salvorisberg)  
-[LinkedIn](https://is.linkedin.com/in/salv%C3%B6r-%C3%ADsberg-432561195)  
 
 ```{r, echo=FALSE, out.width = "300px"}
 knitr::include_graphics("images/slis_image.png")
@@ -118,7 +116,7 @@ knitr::include_graphics("images/person-icon-1672 (1).png")
 MSc student, bioinformatics 2020
 
 **Xueping Liu**
-Postdoc advisor 2015-2018
+Postdoc 2015-2018
 
 **Jonas Bille Nielsen**
 Research visits 2018-2019
