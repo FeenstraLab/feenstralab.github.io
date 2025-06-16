@@ -4,6 +4,14 @@ title: "Publications"
 
 ## Journal articles
 ### 2025
+Standl M, Budu-Aggrey A, Johnston LJ, Elias MS, Arshad SH, et al. **Gene-environment interaction affects risk of atopic eczema: population and in vitro studies**. Allergy 2025 (in press; available online).
+[![PubMed](./images/pubmed-icon.png "PubMed")](https://pubmed.ncbi.nlm.nih.gov/40462597/){width=0.5%}
+[![doi](./images/doi_logo_small2.png "doi")](https://onlinelibrary.wiley.com/doi/10.1111/all.16605)
+
+Zhong Y, So M-T, Ma Z, Zhang D, Wang Y, et al. **Multi-ancestry genome-wide association meta-analysis identifies novel associations and inform genetic risk prediction for Hirschsprung disease**. EBioMedicine 2025; 115.
+[![PubMed](./images/pubmed-icon.png "PubMed")](https://pubmed.ncbi.nlm.nih.gov/40184909/){width=0.5%}
+[![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1016/j.ebiom.2025.105680)
+
 Andersson NW, Wu X, Geller F, Wohlfahrt J, Melbye M, et al. **Genome-wide association study of plasma sodium concentrations with and without exposure to thiazide diuretics**.
 Journal of the American Society of Nephrology 2025.
 [![PubMed](./images/pubmed-icon.png "PubMed")](https://pubmed.ncbi.nlm.nih.gov/39888683/){width=0.5%}
