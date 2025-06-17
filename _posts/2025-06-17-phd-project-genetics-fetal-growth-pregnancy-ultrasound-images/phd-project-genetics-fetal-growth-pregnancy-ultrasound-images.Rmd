@@ -1,0 +1,39 @@
+---
+title: "PhD project - genetics, fetal growth, pregnancy ultrasound images"
+description: |
+  PhD fellowship in the genetics of fetal and placental growth measures derived from pregnancy ultrasound images
+date: 2025-06-17
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Together with Professor [Simon Rasmussen](https://cbmr.ku.dk/research/research-groups/rasmussen-group/) from the Novo Nordisk Foundation Center for Basic Metabolic Research (https://cbmr.ku.dk/), University of Copenhagen, we are recruting a PhD fellow. 
+
+The link to the full advertisement at the Job Portal is [here](https://employment.ku.dk/phd?show=164350).
+Application deadline: July 24, 2025, 23.59 CET.
+Start date:         October 1, 2025, or after agreement.
+
+This PhD project is nested within the larger research collaboration **“Deep Fetal Development: AI for Fetal Development Analysis and Impact on Future Health of Mother and Child”** funded by a Novo Nordisk Foundation Data Science Collaborative Research Programme grant. PI on the project is [Mads Nielsen](https://di.ku.dk/Ansatte/?pure=da/persons/137906), KU, and co-PIs [Aasa Feragen](https://www2.compute.dtu.dk/~afhar/), DTU, [Martin Tolsgaard](https://www.regionh.dk/CAMES-english/Research/Researchers/Pages/Martin-Tolsgaard.aspx), Rigshospitalet, and [Bjarke Feenstra](https://feenstralab.github.io/), Statens Serum Institut.
+
+**More about the project**
+
+Pregnancy is a crucial period that can provide insight into potential future health conditions for women and their children. Affecting at least 5% of all pregnancies, growth-related conditions are the largest risk factor for stillbirth and poor obstetric outcomes and are associated with risk of cardiometabolic and neuropsychiatric diseases later in the life of the child. Furthermore, the risk of developing type-2-diabetes, cardiovascular disease (CVD), and other metabolic disorders is higher for women diagnosed with conditions related to fetal growth, including gestational diabetes and preeclampsia. Speculations of underlying mechanisms are many. For example, it is unknown if growth-related diseases like preeclampsia influence the mother’s cardiovascular system, thereby leading to a greater risk of later CVD, or whether the CVD and preeclampsia share common genetic and non-genetic pathways.
+
+In the larger **Deep Fetal Development** project, we will study all pregnancies from Denmark since 2009. We will use a unique database of more than 700,000 babies including all their ultrasound screening images, in total more than 20,000,000 images. In combination with these we will use electronic healthcare records from national registers on the mothers and babies and genetic data of 20,000 mothers and 10,000 fathers.
+
+Four PhD projects are embedded in the Deep Fetal Development project. The genetics PhD project will be focused on understanding genetic influences on fetal and placental growth. In other arms of the Deep Fetal Development project, deep learning analyses of the ultrasound images will lead to (1) measures of fetal and placental anatomical features in first, second, and third trimester, (2) classification of different types of fetal growth trajectories, (3) quantification of tissue/organ growth, e.g. fetal adipose tissue distribution.
+
+The genetics PhD project will link the ultrasound derived measures with genetic data from the Danish Blood Donor Study (DBDS), the Copenhagen Hospital Biobank (CHB), and research cohorts at SSI. A total of ~20,000 mothers and ~10,000 fathers with one or more children born >2009 will be analyzed. Out of those, ~2000 are mother-father pairs.
+
+The PhD student will (1) make genome-wide association study (GWAS) analyses of the ultrasound derived growth measures, (2) make comparative analyses with prior GWAS of birth weight and length, head circumference at birth, placental weight and gestational duration, (3) make GWAS analyses of hemodynamic parameters from the ultrasound screening (e.g. umbilical artery, middle cerebral artery, renal artery), and (4) perform pathway enrichment and other follow-up analyses for functional insights.
+
+In addition, further potential directions of the research include causal analyses using fetal/placental growth as exposure to investigate effects on later health outcomes in mother or child, and risk prediction models.
+
+Principal university supervisor will be Professor Simon Rasmussen and primary co-supervisor will be group leader Bjarke Feenstra, at the Department of Congenital Disorders, Statens Serum Institut. To enhance collaboration and synergy, the student will be integrated in the research group of Bjarke Feenstra at SSI as well as Simon Rasmussen’s group at CBMR. 
+

@@ -9,7 +9,7 @@ The overarching goal of our research is to make robust new biological discoverie
 
 ## Highlighted Research Projects  
 ### Febrile seizures
-Febrile seizures affect 1 in 25 children before the age of 5, and thereby represent the most common type of pathological brain activity in young children. Yet there is still much to be learned about the underlying genetic, developmental and environmental factors. Based on health register data on hospital admissions with febrile seizures and on samples from the Danish National Biobank, we have carried out the world's largest genome-wide association studies (GWAS) of the condition. For example studies see: 
+Febrile seizures affect 1 in 25 children before the age of 5, and thereby represent the most common type of pathological brain activity in young children. Yet there is still much to be learned about the underlying genetic, developmental and environmental factors. Based on health register data on hospital admissions with febrile seizures and on samples from the Danish PhDNational Biobank, we have carried out the world's largest genome-wide association studies (GWAS) of the condition. For example studies see: 
 
 * Feenstra B, et al. Common variants associated with general and MMR vaccinerelated febrile seizures. Nature Genetics 2014; 46: 1274-1282. Impact factor: 38.330.  [![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1038/ng.3129)
 * Skotte L, et al. Genome-wide association study of febrile seizures implicates fever response and neuronal excitability genes. Brain 2022; 145:555–568. [![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1093/brain/awab260)
@@ -22,6 +22,7 @@ When a woman is pregnant, when she delivers is important to the health of hersel
 * Zhang, G., et al. Genetic Associations with Gestational Duration and Spontaneous Preterm Birth. N Engl J Med 2017; 377, 1156-1167, [![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1056/NEJMoa1612665)  
 * Beaumont RN, et al. Genome-wide association study of offspring birth weight in 86,577 women identifies five novel loci and highlights maternal genetic effects that are independent of fetal genetics. Human Molecular Genetics 2018; 27, 742-756. [![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1093/hmg/ddx429)
 * Liu, X., et al. Variants in the fetal genome near pro-inflammatory cytokine genes on 2q13 are associated with gestational duration. Nature Communications 2019; 10: 3927, [![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1101/423897)  
+* Beaumont RN, et al. Genome-wide association study of placental weight identifies distinct and shared genetic influences between placental and fetal growth. Nature Genetics 2023; 55:1807–1819. [![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1038/s41588-023-01520-w)
   
 You can hear about the research [In this Podcast](https://www.podbean.com/ew/pb-j2p7j-bde213) 
 

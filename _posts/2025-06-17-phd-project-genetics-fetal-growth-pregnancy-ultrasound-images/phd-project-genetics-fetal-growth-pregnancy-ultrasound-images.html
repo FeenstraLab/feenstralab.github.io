@@ -88,376 +88,38 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
   <!--radix_placeholder_meta_tags-->
-  <title>FeenstraLab: Research</title>
+  <title>PhD project - genetics, fetal growth, pregnancy ultrasound images</title>
+
+  <meta property="description" itemprop="description" content="PhD fellowship in the genetics of fetal and placental growth measures derived from pregnancy ultrasound images"/>
 
 
-
+  <!--  https://schema.org/Article -->
+  <meta property="article:published" itemprop="datePublished" content="2025-06-17"/>
+  <meta property="article:created" itemprop="dateCreated" content="2025-06-17"/>
 
   <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
-  <meta property="og:title" content="FeenstraLab: Research"/>
+  <meta property="og:title" content="PhD project - genetics, fetal growth, pregnancy ultrasound images"/>
   <meta property="og:type" content="article"/>
+  <meta property="og:description" content="PhD fellowship in the genetics of fetal and placental growth measures derived from pregnancy ultrasound images"/>
   <meta property="og:locale" content="en_US"/>
-  <meta property="og:site_name" content="FeenstraLab"/>
 
   <!--  https://dev.twitter.com/cards/types/summary -->
   <meta property="twitter:card" content="summary"/>
-  <meta property="twitter:title" content="FeenstraLab: Research"/>
+  <meta property="twitter:title" content="PhD project - genetics, fetal growth, pregnancy ultrasound images"/>
+  <meta property="twitter:description" content="PhD fellowship in the genetics of fetal and placental growth measures derived from pregnancy ultrasound images"/>
 
   <!--/radix_placeholder_meta_tags-->
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title"]}},"value":[{"type":"character","attributes":{},"value":["Research"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","date","output"]}},"value":[{"type":"character","attributes":{},"value":["PhD project - genetics, fetal growth, pregnancy ultrasound images"]},{"type":"character","attributes":{},"value":["PhD fellowship in the genetics of fetal and placental growth measures derived from pregnancy ultrasound images\n"]},{"type":"character","attributes":{},"value":["2025-06-17"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["self_contained"]}},"value":[{"type":"logical","attributes":{},"value":[false]}]}]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
-  <!--radix_placeholder_navigation_in_header-->
-  <meta name="distill:offset" content=""/>
-
-  <script type="application/javascript">
-
-    window.headroom_prevent_pin = false;
-
-    window.document.addEventListener("DOMContentLoaded", function (event) {
-
-      // initialize headroom for banner
-      var header = $('header').get(0);
-      var headerHeight = header.offsetHeight;
-      var headroom = new Headroom(header, {
-        tolerance: 5,
-        onPin : function() {
-          if (window.headroom_prevent_pin) {
-            window.headroom_prevent_pin = false;
-            headroom.unpin();
-          }
-        }
-      });
-      headroom.init();
-      if(window.location.hash)
-        headroom.unpin();
-      $(header).addClass('headroom--transition');
-
-      // offset scroll location for banner on hash change
-      // (see: https://github.com/WickyNilliams/headroom.js/issues/38)
-      window.addEventListener("hashchange", function(event) {
-        window.scrollTo(0, window.pageYOffset - (headerHeight + 25));
-      });
-
-      // responsive menu
-      $('.distill-site-header').each(function(i, val) {
-        var topnav = $(this);
-        var toggle = topnav.find('.nav-toggle');
-        toggle.on('click', function() {
-          topnav.toggleClass('responsive');
-        });
-      });
-
-      // nav dropdowns
-      $('.nav-dropbtn').click(function(e) {
-        $(this).next('.nav-dropdown-content').toggleClass('nav-dropdown-active');
-        $(this).parent().siblings('.nav-dropdown')
-           .children('.nav-dropdown-content').removeClass('nav-dropdown-active');
-      });
-      $("body").click(function(e){
-        $('.nav-dropdown-content').removeClass('nav-dropdown-active');
-      });
-      $(".nav-dropdown").click(function(e){
-        e.stopPropagation();
-      });
-    });
+  
+  <script type="text/json" id="radix-resource-manifest">
+  {"type":"character","attributes":{},"value":["phd-project-genetics-fetal-growth-pregnancy-ultrasound-images_files/anchor-4.2.2/anchor.min.js","phd-project-genetics-fetal-growth-pregnancy-ultrasound-images_files/bowser-1.9.3/bowser.min.js","phd-project-genetics-fetal-growth-pregnancy-ultrasound-images_files/distill-2.2.21/template.v2.js","phd-project-genetics-fetal-growth-pregnancy-ultrasound-images_files/header-attrs-2.25/header-attrs.js","phd-project-genetics-fetal-growth-pregnancy-ultrasound-images_files/jquery-3.6.0/jquery-3.6.0.js","phd-project-genetics-fetal-growth-pregnancy-ultrasound-images_files/jquery-3.6.0/jquery-3.6.0.min.js","phd-project-genetics-fetal-growth-pregnancy-ultrasound-images_files/jquery-3.6.0/jquery-3.6.0.min.map","phd-project-genetics-fetal-growth-pregnancy-ultrasound-images_files/popper-2.6.0/popper.min.js","phd-project-genetics-fetal-growth-pregnancy-ultrasound-images_files/tippy-6.2.7/tippy-bundle.umd.min.js","phd-project-genetics-fetal-growth-pregnancy-ultrasound-images_files/tippy-6.2.7/tippy-light-border.css","phd-project-genetics-fetal-growth-pregnancy-ultrasound-images_files/tippy-6.2.7/tippy.css","phd-project-genetics-fetal-growth-pregnancy-ultrasound-images_files/tippy-6.2.7/tippy.umd.min.js","phd-project-genetics-fetal-growth-pregnancy-ultrasound-images_files/webcomponents-2.0.0/webcomponents.js"]}
   </script>
-
-  <style type="text/css">
-
-  /* Theme (user-documented overrideables for nav appearance) */
-
-  .distill-site-nav {
-    color: rgba(255, 255, 255, 0.8);
-    background-color: #0F2E3D;
-    font-size: 15px;
-    font-weight: 300;
-  }
-
-  .distill-site-nav a {
-    color: inherit;
-    text-decoration: none;
-  }
-
-  .distill-site-nav a:hover {
-    color: white;
-  }
-
-  @media print {
-    .distill-site-nav {
-      display: none;
-    }
-  }
-
-  .distill-site-header {
-
-  }
-
-  .distill-site-footer {
-
-  }
-
-
-  /* Site Header */
-
-  .distill-site-header {
-    width: 100%;
-    box-sizing: border-box;
-    z-index: 3;
-  }
-
-  .distill-site-header .nav-left {
-    display: inline-block;
-    margin-left: 8px;
-  }
-
-  @media screen and (max-width: 768px) {
-    .distill-site-header .nav-left {
-      margin-left: 0;
-    }
-  }
-
-
-  .distill-site-header .nav-right {
-    float: right;
-    margin-right: 8px;
-  }
-
-  .distill-site-header a,
-  .distill-site-header .title {
-    display: inline-block;
-    text-align: center;
-    padding: 14px 10px 14px 10px;
-  }
-
-  .distill-site-header .title {
-    font-size: 18px;
-    min-width: 150px;
-  }
-
-  .distill-site-header .logo {
-    padding: 0;
-  }
-
-  .distill-site-header .logo img {
-    display: none;
-    max-height: 20px;
-    width: auto;
-    margin-bottom: -4px;
-  }
-
-  .distill-site-header .nav-image img {
-    max-height: 18px;
-    width: auto;
-    display: inline-block;
-    margin-bottom: -3px;
-  }
-
-
-
-  @media screen and (min-width: 1000px) {
-    .distill-site-header .logo img {
-      display: inline-block;
-    }
-    .distill-site-header .nav-left {
-      margin-left: 20px;
-    }
-    .distill-site-header .nav-right {
-      margin-right: 20px;
-    }
-    .distill-site-header .title {
-      padding-left: 12px;
-    }
-  }
-
-
-  .distill-site-header .nav-toggle {
-    display: none;
-  }
-
-  .nav-dropdown {
-    display: inline-block;
-    position: relative;
-  }
-
-  .nav-dropdown .nav-dropbtn {
-    border: none;
-    outline: none;
-    color: rgba(255, 255, 255, 0.8);
-    padding: 16px 10px;
-    background-color: transparent;
-    font-family: inherit;
-    font-size: inherit;
-    font-weight: inherit;
-    margin: 0;
-    margin-top: 1px;
-    z-index: 2;
-  }
-
-  .nav-dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: white;
-    min-width: 200px;
-    border: 1px solid rgba(0,0,0,0.15);
-    border-radius: 4px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.1);
-    z-index: 1;
-    margin-top: 2px;
-    white-space: nowrap;
-    padding-top: 4px;
-    padding-bottom: 4px;
-  }
-
-  .nav-dropdown-content hr {
-    margin-top: 4px;
-    margin-bottom: 4px;
-    border: none;
-    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
-  }
-
-  .nav-dropdown-active {
-    display: block;
-  }
-
-  .nav-dropdown-content a, .nav-dropdown-content .nav-dropdown-header {
-    color: black;
-    padding: 6px 24px;
-    text-decoration: none;
-    display: block;
-    text-align: left;
-  }
-
-  .nav-dropdown-content .nav-dropdown-header {
-    display: block;
-    padding: 5px 24px;
-    padding-bottom: 0;
-    text-transform: uppercase;
-    font-size: 14px;
-    color: #999999;
-    white-space: nowrap;
-  }
-
-  .nav-dropdown:hover .nav-dropbtn {
-    color: white;
-  }
-
-  .nav-dropdown-content a:hover {
-    background-color: #ddd;
-    color: black;
-  }
-
-  .nav-right .nav-dropdown-content {
-    margin-left: -45%;
-    right: 0;
-  }
-
-  @media screen and (max-width: 768px) {
-    .distill-site-header a, .distill-site-header .nav-dropdown  {display: none;}
-    .distill-site-header a.nav-toggle {
-      float: right;
-      display: block;
-    }
-    .distill-site-header .title {
-      margin-left: 0;
-    }
-    .distill-site-header .nav-right {
-      margin-right: 0;
-    }
-    .distill-site-header {
-      overflow: hidden;
-    }
-    .nav-right .nav-dropdown-content {
-      margin-left: 0;
-    }
-  }
-
-
-  @media screen and (max-width: 768px) {
-    .distill-site-header.responsive {position: relative; min-height: 500px; }
-    .distill-site-header.responsive a.nav-toggle {
-      position: absolute;
-      right: 0;
-      top: 0;
-    }
-    .distill-site-header.responsive a,
-    .distill-site-header.responsive .nav-dropdown {
-      display: block;
-      text-align: left;
-    }
-    .distill-site-header.responsive .nav-left,
-    .distill-site-header.responsive .nav-right {
-      width: 100%;
-    }
-    .distill-site-header.responsive .nav-dropdown {float: none;}
-    .distill-site-header.responsive .nav-dropdown-content {position: relative;}
-    .distill-site-header.responsive .nav-dropdown .nav-dropbtn {
-      display: block;
-      width: 100%;
-      text-align: left;
-    }
-  }
-
-  /* Site Footer */
-
-  .distill-site-footer {
-    width: 100%;
-    overflow: hidden;
-    box-sizing: border-box;
-    z-index: 3;
-    margin-top: 30px;
-    padding-top: 30px;
-    padding-bottom: 30px;
-    text-align: center;
-  }
-
-  /* Headroom */
-
-  d-title {
-    padding-top: 6rem;
-  }
-
-  @media print {
-    d-title {
-      padding-top: 4rem;
-    }
-  }
-
-  .headroom {
-    z-index: 1000;
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-  }
-
-  .headroom--transition {
-    transition: all .4s ease-in-out;
-  }
-
-  .headroom--unpinned {
-    top: -100px;
-  }
-
-  .headroom--pinned {
-    top: 0;
-  }
-
-  /* adjust viewport for navbar height */
-  /* helps vertically center bootstrap (non-distill) content */
-  .min-vh-100 {
-    min-height: calc(100vh - 100px) !important;
-  }
-
-  </style>
-
-  <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
-  <link href="site_libs/font-awesome-6.4.2/css/all.min.css" rel="stylesheet"/>
-  <link href="site_libs/font-awesome-6.4.2/css/v4-shims.min.css" rel="stylesheet"/>
-  <script src="site_libs/headroom-0.9.4/headroom.min.js"></script>
+  <!--radix_placeholder_navigation_in_header-->
   <!--/radix_placeholder_navigation_in_header-->
   <!--radix_placeholder_distill-->
 
@@ -1836,379 +1498,17 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
   </script>
 
-  <style type="text/css">
-  /* base variables */
-
-  /* Edit the CSS properties in this file to create a custom
-     Distill theme. Only edit values in the right column
-     for each row; values shown are the CSS defaults.
-     To return any property to the default,
-     you may set its value to: unset
-     All rows must end with a semi-colon.                      */
-
-  /* Optional: embed custom fonts here with `@import`          */
-  /* This must remain at the top of this file.                 */
-
-
-
-  html {
-    /*-- Main font sizes --*/
-    --title-size:      50px;
-    --body-size:       1.06rem;
-    --code-size:       14px;
-    --aside-size:      12px;
-    --fig-cap-size:    13px;
-    /*-- Main font colors --*/
-    --title-color:     #000000;
-    --header-color:    rgba(0, 0, 0, 0.8);
-    --body-color:      rgba(0, 0, 0, 0.8);
-    --aside-color:     rgba(0, 0, 0, 0.6);
-    --fig-cap-color:   rgba(0, 0, 0, 0.6);
-    /*-- Specify custom fonts ~~~ must be imported above   --*/
-    --heading-font:    sans-serif;
-    --mono-font:       monospace;
-    --body-font:       sans-serif;
-    --navbar-font:     sans-serif;  /* websites + blogs only */
-  }
-
-  /*-- ARTICLE METADATA --*/
-  d-byline {
-    --heading-size:    0.6rem;
-    --heading-color:   rgba(0, 0, 0, 0.5);
-    --body-size:       0.8rem;
-    --body-color:      rgba(0, 0, 0, 0.8);
-  }
-
-  /*-- ARTICLE TABLE OF CONTENTS --*/
-  .d-contents {
-    --heading-size:    18px;
-    --contents-size:   13px;
-  }
-
-  /*-- ARTICLE APPENDIX --*/
-  d-appendix {
-    --heading-size:    15px;
-    --heading-color:   rgba(0, 0, 0, 0.65);
-    --text-size:       0.8em;
-    --text-color:      rgba(0, 0, 0, 0.5);
-  }
-
-  /*-- WEBSITE HEADER + FOOTER --*/
-  /* These properties only apply to Distill sites and blogs  */
-
-  .distill-site-header {
-    --title-size:       18px;
-    --text-color:       rgba(255, 255, 255, 0.8);
-    --text-size:        15px;
-    --hover-color:      white;
-    --bkgd-color:       #0F2E3D;
-  }
-
-  .distill-site-footer {
-    --text-color:       rgba(255, 255, 255, 0.8);
-    --text-size:        15px;
-    --hover-color:      white;
-    --bkgd-color:       #0F2E3D;
-  }
-
-  /*-- Additional custom styles --*/
-  /* Add any additional CSS rules below                      */
-  </style>
-  <style type="text/css">/* base variables */
-
-  /* Edit the CSS properties in this file to create a custom
-     Distill theme. Only edit values in the right column
-     for each row; values shown are the CSS defaults.
-     To return any property to the default,
-     you may set its value to: unset
-     All rows must end with a semi-colon.                      */
-
-  /* Optional: embed custom fonts here with `@import`          */
-  /* This must remain at the top of this file.                 */
-  @import url('https://fonts.googleapis.com/css2?family=Cardo');
-  @import url('https://fonts.googleapis.com/css2?family=Alata');
-
-
-  html {
-    /*-- Main font sizes --*/
-    --title-size:      50px;
-    --body-size:       1.075rem;                   /* edited */
-    --code-size:       14px;
-    --aside-size:      12px;
-    --fig-cap-size:    13px;
-    /*-- Main font colors --*/
-    --title-color:     #000000;
-    --heading-color:   rgba(0, 0, 0, 0.8); /*black*/
-    --body-color:      rgba(0, 0, 0, 0.8); /*black*/
-    --aside-color:     rgba(0, 0, 0, 0.6); /*black/gray*/
-    --fig-cap-color:   rgba(0, 0, 0, 0.6); /*black/gray*/
-    /*-- Specify custom fonts ~~~ must be imported above   --*/
-    --heading-font:    'Alata', sans-serif;        /* edited */
-    --mono-font:       monospace;
-    --body-font:       'Cardo', serif;             /* edited */
-    --navbar-font:     'Alata', sans-serif;        /* edited */
-  }
-
-  /*-- ARTICLE METADATA --*/
-  d-byline {
-    --heading-size:    0.6rem;
-    --heading-color:   rgba(0, 0, 0, 0.5); /*gray*/
-    --body-size:       0.8rem;
-    --body-color:      rgba(0, 0, 0, 0.8); /*black*/
-  }
-
-  /*-- ARTICLE TABLE OF CONTENTS --*/
-  .d-contents {
-    --heading-size:    18px;
-    --contents-size:   13px;
-  }
-
-  /*-- ARTICLE APPENDIX --*/
-  d-appendix {
-    --heading-size:    15px;
-    --heading-color:   rgba(0, 0, 0, 0.65);
-    --text-size:       1.075rem;                   /* edited */
-    --text-color:      rgb(0, 0, 0);               /* edited */
-  }
-
-  /*-- WEBSITE HEADER + FOOTER --*/
-  /* These properties only apply to Distill sites and blogs  */
-
-  .distill-site-header {
-    --title-size:       18px;
-    --text-color:       #000;                     /* edited */
-    --text-size:        15px;
-    --hover-color:      #00bfff; /*text color*/   /* edited */
-    --bkgd-color:       #fff;                     /* edited */
-  }
-
-  .distill-site-footer {
-    --text-color:       rgba(255, 255, 255, 0.8);
-    --text-size:        15px;
-    --hover-color:      white;
-    --bkgd-color:       #00bfff; /* original 0F2E3D */
-  }
-
-  body {
-    background-image: url('https://th.bing.com/th/id/R.700c9c8884650d4e7ab035d1af06bd2b?rik=Ow8m%2bu2%2bBXUSdg&riu=http%3a%2f%2fwww.colordic.org%2fimage%2f00bfff.png&ehk=9om0MVeGU3U2TxJbN7aCXp9GrWq%2f0VrzLwRvPnk4nyA%3d&risl=&pid=ImgRaw&r=0');
-    background-repeat: no-repeat;
-    background-size: 1500px 183px;
-    
-  }
-
-  .image-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-  }
-
-  .image-container img {
-    width: 50%;
-    margin: 10px;
-  }
-
-  @media only screen and (max-width: 768px) {
-    .image-container {
-      flex-direction: column;
-    }
-    
-    .image-container img {
-      width: 100%;
-    }
-  }
-
-
-  /*-- Additional custom styles --*/
-
-  .categories li > a:hover {
-      color: #00ff00;
-      border-bottom: 1px #00ff00;
-  }
-
-  p a:hover  {
-      color: #00ff00;
-  }
-
-  /* Change appearance of headers */
-  h1, h2, h3, h4, h5 {
-      font-weight: 700;
-  }
-
-  /* Use specific font in the body of the text */
-  html, body, p {
-      font-weight: 200;
-      /*line-height: 1.3rem; */
-      /*font-style: normal;*/
-  }
-
-  ul > li::marker {
-      font-weight: 700;
-      font-size: 1.125em;
-  }</style>
-  <style type="text/css">
-  /* base style */
-
-  /* FONT FAMILIES */
-
-  :root {
-    --heading-default: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif;
-    --mono-default: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
-    --body-default: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif;
-  }
-
-  body,
-  .posts-list .post-preview p,
-  .posts-list .description p {
-    font-family: var(--body-font), var(--body-default);
-  }
-
-  h1, h2, h3, h4, h5, h6,
-  .posts-list .post-preview h2,
-  .posts-list .description h2 {
-    font-family: var(--heading-font), var(--heading-default);
-  }
-
-  d-article div.sourceCode code,
-  d-article pre code {
-    font-family: var(--mono-font), var(--mono-default);
-  }
-
-
-  /*-- TITLE --*/
-  d-title h1,
-  .posts-list > h1 {
-    color: var(--title-color, black);
-  }
-
-  d-title h1 {
-    font-size: var(--title-size, 50px);
-  }
-
-  /*-- HEADERS --*/
-  d-article h1,
-  d-article h2,
-  d-article h3,
-  d-article h4,
-  d-article h5,
-  d-article h6 {
-    color: var(--header-color, rgba(0, 0, 0, 0.8));
-  }
-
-  /*-- BODY --*/
-  d-article > p,  /* only text inside of <p> tags */
-  d-article > ul, /* lists */
-  d-article > ol {
-    color: var(--body-color, rgba(0, 0, 0, 0.8));
-    font-size: var(--body-size, 1.06rem);
-  }
-
-
-  /*-- CODE --*/
-  d-article div.sourceCode code,
-  d-article pre code {
-    font-size: var(--code-size, 14px);
-  }
-
-  /*-- ASIDE --*/
-  d-article aside {
-    font-size: var(--aside-size, 12px);
-    color: var(--aside-color, rgba(0, 0, 0, 0.6));
-  }
-
-  /*-- FIGURE CAPTIONS --*/
-  figure .caption,
-  figure figcaption,
-  .figure .caption {
-    font-size: var(--fig-cap-size, 13px);
-    color: var(--fig-cap-color, rgba(0, 0, 0, 0.6));
-  }
-
-  /*-- METADATA --*/
-  d-byline h3 {
-    font-size: var(--heading-size, 0.6rem);
-    color: var(--heading-color, rgba(0, 0, 0, 0.5));
-  }
-
-  d-byline {
-    font-size: var(--body-size, 0.8rem);
-    color: var(--body-color, rgba(0, 0, 0, 0.8));
-  }
-
-  d-byline a,
-  d-article d-byline a {
-    color: var(--body-color, rgba(0, 0, 0, 0.8));
-  }
-
-  /*-- TABLE OF CONTENTS --*/
-  .d-contents nav h3 {
-    font-size: var(--heading-size, 18px);
-  }
-
-  .d-contents nav a {
-    font-size: var(--contents-size, 13px);
-  }
-
-  /*-- APPENDIX --*/
-  d-appendix h3 {
-    font-size: var(--heading-size, 15px);
-    color: var(--heading-color, rgba(0, 0, 0, 0.65));
-  }
-
-  d-appendix {
-    font-size: var(--text-size, 0.8em);
-    color: var(--text-color, rgba(0, 0, 0, 0.5));
-  }
-
-  d-appendix d-footnote-list a.footnote-backlink {
-    color: var(--text-color, rgba(0, 0, 0, 0.5));
-  }
-
-  /*-- WEBSITE HEADER + FOOTER --*/
-  .distill-site-header .title {
-    font-size: var(--title-size, 18px);
-    font-family: var(--navbar-font), var(--heading-default);
-  }
-
-  .distill-site-header a,
-  .nav-dropdown .nav-dropbtn {
-    font-family: var(--navbar-font), var(--heading-default);
-  }
-
-  .nav-dropdown .nav-dropbtn {
-    color: var(--text-color, rgba(255, 255, 255, 0.8));
-    font-size: var(--text-size, 15px);
-  }
-
-  .distill-site-header a:hover,
-  .nav-dropdown:hover .nav-dropbtn {
-    color: var(--hover-color, white);
-  }
-
-  .distill-site-header {
-    font-size: var(--text-size, 15px);
-    color: var(--text-color, rgba(255, 255, 255, 0.8));
-    background-color: var(--bkgd-color, #0F2E3D);
-  }
-
-  .distill-site-footer {
-    font-size: var(--text-size, 15px);
-    color: var(--text-color, rgba(255, 255, 255, 0.8));
-    background-color: var(--bkgd-color, #0F2E3D);
-  }
-
-  .distill-site-footer a:hover {
-    color: var(--hover-color, white);
-  }</style>
   <!--/radix_placeholder_distill-->
-  <script src="site_libs/header-attrs-2.25/header-attrs.js"></script>
-  <script src="site_libs/popper-2.6.0/popper.min.js"></script>
-  <link href="site_libs/tippy-6.2.7/tippy.css" rel="stylesheet" />
-  <link href="site_libs/tippy-6.2.7/tippy-light-border.css" rel="stylesheet" />
-  <script src="site_libs/tippy-6.2.7/tippy.umd.min.js"></script>
-  <script src="site_libs/anchor-4.2.2/anchor.min.js"></script>
-  <script src="site_libs/bowser-1.9.3/bowser.min.js"></script>
-  <script src="site_libs/webcomponents-2.0.0/webcomponents.js"></script>
-  <script src="site_libs/distill-2.2.21/template.v2.js"></script>
+  <script src="phd-project-genetics-fetal-growth-pregnancy-ultrasound-images_files/header-attrs-2.25/header-attrs.js"></script>
+  <script src="phd-project-genetics-fetal-growth-pregnancy-ultrasound-images_files/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+  <script src="phd-project-genetics-fetal-growth-pregnancy-ultrasound-images_files/popper-2.6.0/popper.min.js"></script>
+  <link href="phd-project-genetics-fetal-growth-pregnancy-ultrasound-images_files/tippy-6.2.7/tippy.css" rel="stylesheet" />
+  <link href="phd-project-genetics-fetal-growth-pregnancy-ultrasound-images_files/tippy-6.2.7/tippy-light-border.css" rel="stylesheet" />
+  <script src="phd-project-genetics-fetal-growth-pregnancy-ultrasound-images_files/tippy-6.2.7/tippy.umd.min.js"></script>
+  <script src="phd-project-genetics-fetal-growth-pregnancy-ultrasound-images_files/anchor-4.2.2/anchor.min.js"></script>
+  <script src="phd-project-genetics-fetal-growth-pregnancy-ultrasound-images_files/bowser-1.9.3/bowser.min.js"></script>
+  <script src="phd-project-genetics-fetal-growth-pregnancy-ultrasound-images_files/webcomponents-2.0.0/webcomponents.js"></script>
+  <script src="phd-project-genetics-fetal-growth-pregnancy-ultrasound-images_files/distill-2.2.21/template.v2.js"></script>
   <!--radix_placeholder_site_in_header-->
   <!--/radix_placeholder_site_in_header-->
 
@@ -2220,84 +1520,38 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"Research","authors":[]}
+{"title":"PhD project - genetics, fetal growth, pregnancy ultrasound images","description":"PhD fellowship in the genetics of fetal and placental growth measures derived from pregnancy ultrasound images","authors":[],"publishedDate":"2025-06-17T00:00:00.000+02:00"}
 </script>
 
 <!--/radix_placeholder_front_matter-->
 <!--radix_placeholder_navigation_before_body-->
-<header class="header header--fixed" role="banner">
-<nav class="distill-site-nav distill-site-header">
-<div class="nav-left">
-<a href="index.html" class="title">FeenstraLab</a>
-</div>
-<div class="nav-right">
-<a href="index.html">Home</a>
-<a href="about.html">About</a>
-<a href="research.html">Research</a>
-<a href="publications.html">Publications</a>
-<a href="news.html">News</a>
-<a href="team.html">Team</a>
-<a href="contact.html">Contact Us</a>
-<a href="javascript:void(0);" class="nav-toggle">&#9776;</a>
-</div>
-</nav>
-</header>
 <!--/radix_placeholder_navigation_before_body-->
 <!--radix_placeholder_site_before_body-->
 <!--/radix_placeholder_site_before_body-->
 
 <div class="d-title">
-<h1>Research</h1>
+<h1>PhD project - genetics, fetal growth, pregnancy ultrasound images</h1>
 
 <!--radix_placeholder_categories-->
 <!--/radix_placeholder_categories-->
-
+<p><p>PhD fellowship in the genetics of fetal and placental growth measures derived from pregnancy ultrasound images</p></p>
 </div>
 
 
 <div class="d-article">
-<h2 id="areas-of-focus">Areas of Focus</h2>
-<p>The overarching goal of our research is to make robust new biological discoveries, uncovering how variation in the genome, transcriptome or metabolome is associated with health-related traits and diseases. In our projects, we have a particular focus on two main areas: pregnancy and selected diseases in young children. Our studies are typically based on information from Danish health registers (in the form of, e.g., diagnosis and surgery codes) and use biological specimens from the <a href="https://www.danishnationalbiobank.com/">Danish National Biobank</a> for genotyping and other analyses. Other important resources that we use include the <a href="https://www.dnbc.dk/">Danish National Birth Cohort</a>, the <a href="https://bloddonor.dk/bloddonorstudiet/introduktion-til-det-danske-bloddonorstudie/">Danish Blood Donor Study</a>, <a href="https://www.regionh.dk/forskning-og-innovation/Region-Hovedstadens-biobank/Sider/default.aspx">Copenhagen Hospital Biobank</a>, and the <a href="https://ipsych.dk/">iPSYCH study</a>. These resources allow us to conduct studies that would not be feasible anywhere else in the world.</p>
-<h2 id="highlighted-research-projects">Highlighted Research Projects</h2>
-<h3 id="febrile-seizures">Febrile seizures</h3>
-<p>Febrile seizures affect 1 in 25 children before the age of 5, and thereby represent the most common type of pathological brain activity in young children. Yet there is still much to be learned about the underlying genetic, developmental and environmental factors. Based on health register data on hospital admissions with febrile seizures and on samples from the Danish PhDNational Biobank, we have carried out the world’s largest genome-wide association studies (GWAS) of the condition. For example studies see:</p>
-<ul>
-<li>Feenstra B, et al. Common variants associated with general and MMR vaccinerelated febrile seizures. Nature Genetics 2014; 46: 1274-1282. Impact factor: 38.330. <a href="https://doi.org/10.1038/ng.3129"><img src="images/doi_logo_small2.png" title="doi" alt="doi" /></a></li>
-<li>Skotte L, et al. Genome-wide association study of febrile seizures implicates fever response and neuronal excitability genes. Brain 2022; 145:555–568. <a href="https://doi.org/10.1093/brain/awab260"><img src="images/doi_logo_small2.png" title="doi" alt="doi" /></a></li>
-</ul>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wSwozoapOh4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-</iframe>
-<h3 id="genetic-studies-of-pregnancy-and-birth">Genetic studies of pregnancy and birth</h3>
-<p>When a woman is pregnant, when she delivers is important to the health of herself and her child. Preterm birth is a major cause of health problems and is the leading cause of death in children under the age of 5 years worldwide. Conversely, if a pregnancy goes far past the due date, the risk of birth complications and stillbirth increases. But what determines when a woman goes into labor? Also, the growth of the fetus and of the placenta are important for proper development of the baby and is associated with future health. In collaboration with numerous international groups, e.g. in the <a href="http://egg-consortium.org/">Early Growth Genetics Consortium</a>, we have identified robust associations between common genetic variation and a range of outcomes related to pregnancy and birth. For example studies see:</p>
-<ul>
-<li>Zhang, G., et al. Genetic Associations with Gestational Duration and Spontaneous Preterm Birth. N Engl J Med 2017; 377, 1156-1167, <a href="https://doi.org/10.1056/NEJMoa1612665"><img src="images/doi_logo_small2.png" title="doi" alt="doi" /></a><br />
-</li>
-<li>Beaumont RN, et al. Genome-wide association study of offspring birth weight in 86,577 women identifies five novel loci and highlights maternal genetic effects that are independent of fetal genetics. Human Molecular Genetics 2018; 27, 742-756. <a href="https://doi.org/10.1093/hmg/ddx429"><img src="images/doi_logo_small2.png" title="doi" alt="doi" /></a></li>
-<li>Liu, X., et al. Variants in the fetal genome near pro-inflammatory cytokine genes on 2q13 are associated with gestational duration. Nature Communications 2019; 10: 3927, <a href="https://doi.org/10.1101/423897"><img src="images/doi_logo_small2.png" title="doi" alt="doi" /></a><br />
-</li>
-<li>Beaumont RN, et al. Genome-wide association study of placental weight identifies distinct and shared genetic influences between placental and fetal growth. Nature Genetics 2023; 55:1807–1819. <a href="https://doi.org/10.1038/s41588-023-01520-w"><img src="images/doi_logo_small2.png" title="doi" alt="doi" /></a></li>
-</ul>
-<p>You can hear about the research <a href="https://www.podbean.com/ew/pb-j2p7j-bde213">In this Podcast</a></p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kyma3SVYt6M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-</iframe>
-<h3 id="genetics-metabolism-and-the-risk-of-a-digestive-system-disease-in-newborns">Genetics, metabolism, and the risk of a digestive system disease in newborns</h3>
-<p>The disease pyloric stenosis was characterized by the Danish pediatrician <a href="https://en.wikipedia.org/wiki/Harald_Hirschsprung">Harald Hirschsprung</a> in the late 19th century. In a series of studies, we analyze genetics and metabolomics using dried blood spot samples obtained a few days after birth. One notable finding is that genetic variants influencing blood lipid levels are also associated with the risk of pyloric stenosis. For example studies see:</p>
-<ul>
-<li>Feenstra, B., Geller, F., et al. Common variants near MBNL1 and NKX2-5 are associated with infantile hypertrophic pyloric stenosis. Nature Genetics 2012; 44, 334-337. <a href="https://doi.org/10.1038/ng.1067"><img src="images/doi_logo_small2.png" title="doi" alt="doi" /></a></li>
-<li>Feenstra, B., Geller, F., et al. Plasma lipids, genetic variants near APOA1, and the risk of infantile hypertrophic pyloric stenosis. JAMA 2013; 310, 714-721. <a href="https://doi.org/10.1001/jama.2013.242978"><img src="images/doi_logo_small2.png" title="doi" alt="doi" /></a><br />
-</li>
-<li>Fadista, J., Skotte, L., et al. Genome-wide meta-analysis identifies BARX1 and EML4-MTA3 as new loci associated with infantile hypertrophic pyloric stenosis. Hum Mol Genet 2019; 28, 332-340. <a href="https://doi.org/10.1093/hmg/ddy347"><img src="images/doi_logo_small2.png" title="doi" alt="doi" /></a><br />
-</li>
-<li>Fadista J, Skotte L, Courraud J, Geller F, Gørtz S, Wohlfahrt J, Melbye M, Cohen AS, Feenstra B. Integrating genetics with newborn metabolomics in infantile hypertrophic pyloric stenosis. Metabolomics 2021; 17:7.<a href="https://doi.org/10.1007/s11306-020-01763-2"><img src="images/doi_logo_small2.png" title="doi" alt="doi" /></a></li>
-</ul>
-<h3 id="genetic-studies-in-greenland">Genetic studies in Greenland</h3>
-<p>For thousands of years, Greenlanders have lived in isolation and have eaten a diet high in fat and low in carbohydrate. We have conducted a population-based health study in seven towns across Greenland and have conducted studies of genetics and metabolism in collaboration with researchers at the University of Copenhagen and elsewhere. For example studies see:</p>
-<ul>
-<li>Skotte L, et al. A CPT1A missense mutation associated with fatty acid metabolism and reduced height in Greenlanders. Circulation Cardiovascular Genetics 2017; 10 (3):e001618. <a href="https://doi.org/10.1161/CIRCGENETICS.116.001618"><img src="images/doi_logo_small2.png" title="doi" alt="doi" /></a></li>
-<li>Andersen MK, et al. Loss of sucrase-isomaltase function increases acetate levels and improves metabolic health in Greenlandic cohorts. Gastroenterology 2022, 162(4), 1171-1182. <a href="https://doi.org/10.1053/j.gastro.2021.12.236"><img src="images/doi_logo_small2.png" title="doi" alt="doi" /></a></li>
-</ul>
-<iframe src="https://player.vimeo.com/video/223094867?h=6261f67c95" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen>
-</iframe>
+<p>Together with Professor <a href="https://cbmr.ku.dk/research/research-groups/rasmussen-group/">Simon Rasmussen</a> from the Novo Nordisk Foundation Center for Basic Metabolic Research (<a href="https://cbmr.ku.dk/" class="uri">https://cbmr.ku.dk/</a>), University of Copenhagen, we are recruting a PhD fellow.</p>
+<p>The link to the full advertisement at the Job Portal is <a href="https://employment.ku.dk/phd?show=164350">here</a>.
+Application deadline: July 24, 2025, 23.59 CET.
+Start date: October 1, 2025, or after agreement.</p>
+<p>This PhD project is nested within the larger research collaboration <strong>“Deep Fetal Development: AI for Fetal Development Analysis and Impact on Future Health of Mother and Child”</strong> funded by a Novo Nordisk Foundation Data Science Collaborative Research Programme grant. PI on the project is <a href="https://di.ku.dk/Ansatte/?pure=da/persons/137906">Mads Nielsen</a>, KU, and co-PIs <a href="https://www2.compute.dtu.dk/~afhar/">Aasa Feragen</a>, DTU, <a href="https://www.regionh.dk/CAMES-english/Research/Researchers/Pages/Martin-Tolsgaard.aspx">Martin Tolsgaard</a>, Rigshospitalet, and <a href="https://feenstralab.github.io/">Bjarke Feenstra</a>, Statens Serum Institut.</p>
+<p><strong>More about the project</strong></p>
+<p>Pregnancy is a crucial period that can provide insight into potential future health conditions for women and their children. Affecting at least 5% of all pregnancies, growth-related conditions are the largest risk factor for stillbirth and poor obstetric outcomes and are associated with risk of cardiometabolic and neuropsychiatric diseases later in the life of the child. Furthermore, the risk of developing type-2-diabetes, cardiovascular disease (CVD), and other metabolic disorders is higher for women diagnosed with conditions related to fetal growth, including gestational diabetes and preeclampsia. Speculations of underlying mechanisms are many. For example, it is unknown if growth-related diseases like preeclampsia influence the mother’s cardiovascular system, thereby leading to a greater risk of later CVD, or whether the CVD and preeclampsia share common genetic and non-genetic pathways.</p>
+<p>In the larger <strong>Deep Fetal Development</strong> project, we will study all pregnancies from Denmark since 2009. We will use a unique database of more than 700,000 babies including all their ultrasound screening images, in total more than 20,000,000 images. In combination with these we will use electronic healthcare records from national registers on the mothers and babies and genetic data of 20,000 mothers and 10,000 fathers.</p>
+<p>Four PhD projects are embedded in the Deep Fetal Development project. The genetics PhD project will be focused on understanding genetic influences on fetal and placental growth. In other arms of the Deep Fetal Development project, deep learning analyses of the ultrasound images will lead to (1) measures of fetal and placental anatomical features in first, second, and third trimester, (2) classification of different types of fetal growth trajectories, (3) quantification of tissue/organ growth, e.g. fetal adipose tissue distribution.</p>
+<p>The genetics PhD project will link the ultrasound derived measures with genetic data from the Danish Blood Donor Study (DBDS), the Copenhagen Hospital Biobank (CHB), and research cohorts at SSI. A total of ~20,000 mothers and ~10,000 fathers with one or more children born &gt;2009 will be analyzed. Out of those, ~2000 are mother-father pairs.</p>
+<p>The PhD student will (1) make genome-wide association study (GWAS) analyses of the ultrasound derived growth measures, (2) make comparative analyses with prior GWAS of birth weight and length, head circumference at birth, placental weight and gestational duration, (3) make GWAS analyses of hemodynamic parameters from the ultrasound screening (e.g. umbilical artery, middle cerebral artery, renal artery), and (4) perform pathway enrichment and other follow-up analyses for functional insights.</p>
+<p>In addition, further potential directions of the research include causal analyses using fetal/placental growth as exposure to investigate effects on later health outcomes in mother or child, and risk prediction models.</p>
+<p>Principal university supervisor will be Professor Simon Rasmussen and primary co-supervisor will be group leader Bjarke Feenstra, at the Department of Congenital Disorders, Statens Serum Institut. To enhance collaboration and synergy, the student will be integrated in the research group of Bjarke Feenstra at SSI as well as Simon Rasmussen’s group at CBMR.</p>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
