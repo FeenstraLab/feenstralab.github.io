@@ -1,0 +1,23 @@
+---
+title: "Sodium GWAS published"
+description: |
+  Large genetic study of sodium levels with and without exposure to blood-pressure lowering medicine
+date: 2025-03-31
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+In a new study, driven by PhD student Niklas Andersson in the group, we identified 31 genetic loci associated with plasma sodium levels. The manuscript [“Genome-Wide Association Study of Plasma Sodium Concentrations with and without Exposure to Thiazide Diuretics”](https://doi.org/10.1681/ASN.0000000622) is now published in the Journal of the American Society of Nephrology.
+
+By analyzing genetic data from approximately 188,000 individuals of European ancestry, we uncovered how genetic variants help regulate the body' salt balance. The findings highlight the importance of pathways involving the pituitary gland in controlling blood sodium levels. We also investigated whether genetic factors explain why some people develop low sodium as a side effect of thiazide diuretics, commonly used to treat high blood pressure, but we found no significant genetic associations.
+
+The study involved collaboration with many colleagues and was made possible through Danish research resources including the national laboratory database, the prescription register, the Danish Blood Donor Study and the Copenhagen Hospital Biobank.
+
+Here's a summary of the study in [Danish](https://www.ssi.dk/aktuelt/nyheder/2025/genetikken-bag-kroppens-evne-til-at-styre-saltbalancen) 
+
+The research was partially funded by the Independent Research Fund Denmark, the Novo Nordisk Foundation, Dagmar Marshall's Fond, Gangstedfonden, Fonden til Lægevidenskabens Fremme, Snedkermester Sophus Jacobsen og Hustru Astrid Jacobsens Fond, Axel Muusfeldts Fond, Arvid Nilssons Fond, and Aase og Ejnar Danielsens Fond.
