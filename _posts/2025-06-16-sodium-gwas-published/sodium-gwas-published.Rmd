@@ -18,6 +18,8 @@ By analyzing genetic data from approximately 188,000 individuals of European anc
 
 The study involved collaboration with many colleagues and was made possible through Danish research resources including the national laboratory database, the prescription register, the Danish Blood Donor Study and the Copenhagen Hospital Biobank.
 
-Here's a summary of the study in [Danish](https://www.ssi.dk/aktuelt/nyheder/2025/genetikken-bag-kroppens-evne-til-at-styre-saltbalancen) 
+Here's a summary of the study in [Danish](https://www.ssi.dk/aktuelt/nyheder/2025/genetikken-bag-kroppens-evne-til-at-styre-saltbalancen). 
+
+The GWAS summary statistics from the study can be found [here](https://www.danishnationalbiobank.com/gwas/plasma-sodium-concentrations-and-thiazide-diuretics).
 
 The research was partially funded by the Independent Research Fund Denmark, the Novo Nordisk Foundation, Dagmar Marshall's Fond, Gangstedfonden, Fonden til Lægevidenskabens Fremme, Snedkermester Sophus Jacobsen og Hustru Astrid Jacobsens Fond, Axel Muusfeldts Fond, Arvid Nilssons Fond, and Aase og Ejnar Danielsens Fond.
