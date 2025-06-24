@@ -4,6 +4,10 @@ title: "Publications"
 
 ## Journal articles
 ### 2025
+Strandberg-Larsen K, Cederkvist L, Aakjær A, Bjerregaard AA, Brix N, Feenstra B, Meder IK, Nohr EA, Olsen SF, Tøttenborg SS, Ramlau-Hansen CH, Vangsted A-M, Andersen A-MN. **Cohort Profile: the Danish National Birth Cohort from foetal life to young adulthood**. International Journal of Epidemiology 2025; 54(4):dyaf083.
+[![PubMed](./images/pubmed-icon.png "PubMed")](https://pubmed.ncbi.nlm.nih.gov/40527481/){width=0.5%}
+[![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1093/ije/dyaf083)
+
 Standl M, Budu-Aggrey A, Johnston LJ, Elias MS, Arshad SH, et al. **Gene-environment interaction affects risk of atopic eczema: population and in vitro studies**. Allergy 2025 (in press; available online).
 [![PubMed](./images/pubmed-icon.png "PubMed")](https://pubmed.ncbi.nlm.nih.gov/40462597/){width=0.5%}
 [![doi](./images/doi_logo_small2.png "doi")](https://onlinelibrary.wiley.com/doi/10.1111/all.16605)
