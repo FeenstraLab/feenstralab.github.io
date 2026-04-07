@@ -53,14 +53,21 @@ Postdoc (primary advisor Heather Boyd, SSI. Joint projects with our group)
 knitr::include_graphics("images/Katerina_Nastou2.jpg")
 ```
 
+**Kateryna Neishalo**
+PhD student at SSI and Center for Basic Metabolic Research, University of Copenhagen.
+
+```{r, echo=FALSE, out.width = "300px"}
+knitr::include_graphics("images/Katja.jpg")
+```
+
+## Alumni:  
+
 **Emil Jørsboe**    
-Affiliated postdoc (primary advisor Torben Hansen, CBMR, KU. Joint projects with our group)
+Affiliated postdoc 2025
 
 ```{r, echo=FALSE, out.width = "300px"}
 knitr::include_graphics("images/EmilJorsboe.png")
 ```
-
-## Alumni:  
 
 **Niklas Andersson**  
 MD, PhD student 2021-2024

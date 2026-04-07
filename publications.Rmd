@@ -3,7 +3,29 @@ title: "Publications"
 ---
 
 ## Journal articles
+### 2026
+Geller F, Wu X, Lammi V, Abner E, Valliere JT, et al. **Central role of glycosylation processes in human genetic susceptibility to SARS-CoV-2 infections with Omicron variants**. Nature Genetics 2026; 58:299–306.
+[![PubMed](./images/pubmed-icon.png "PubMed")](https://pubmed.ncbi.nlm.nih.gov/41571831/){width=0.5%}
+[![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1038/s41588-025-02484-9)
+
+Klakk J, Trabjerg BB, Wimberley T, Plana-Ripoll O, Feenstra B, Christensen J, Dreier JW. **School well-being in children with epilepsy and febrile seizures: A Danish nationwide cohort study**. Epilepsy & Behavior 2026; 176:110870.
+[![PubMed](./images/pubmed-icon.png "PubMed")](https://pubmed.ncbi.nlm.nih.gov/41564577/){width=0.5%}
+[![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1016/j.yebeh.2025.110870)
+
+
 ### 2025
+Smit RAJ, Wade KH, Hui Q, Arlas JD, Yin X, et al. **Polygenic prediction of body mass index and obesity through the life course and across ancestries**. Nature Medicine 2025; 31:3151–3168.
+[![PubMed](./images/pubmed-icon.png "PubMed")](https://pubmed.ncbi.nlm.nih.gov/40691366/){width=0.5%}
+[![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1038/s41591-025-03827-z)
+
+Andersson NW, Jakobsen KD, Hviid A, Feenstra B, Melbye M, Wohlfahrt J, Lund M. **Predicting high excess risk of hyponatraemia among thiazide users**. European Journal of Preventive Cardiology 2025; zwaf474.
+[![PubMed](./images/pubmed-icon.png "PubMed")](https://pubmed.ncbi.nlm.nih.gov/40735958/){width=0.5%}
+[![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1093/eurjpc/zwaf474)
+
+Fischer-Rasmussen K, Granell R, Eliasen AU, Kreiner E, Pedersen C-ET, et al. **Genetic characterization of preschool wheeze phenotypes**. Journal of Clinical Allergy and Immunology 2025; 156(6):1537-1546. 
+[![PubMed](./images/pubmed-icon.png "PubMed")](https://pubmed.ncbi.nlm.nih.gov/40769318/){width=0.5%}
+[![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1016/j.jaci.2025.07.015)
+
 Strandberg-Larsen K, Cederkvist L, Aakjær A, Bjerregaard AA, Brix N, Feenstra B, Meder IK, Nohr EA, Olsen SF, Tøttenborg SS, Ramlau-Hansen CH, Vangsted A-M, Andersen A-MN. **Cohort Profile: the Danish National Birth Cohort from foetal life to young adulthood**. International Journal of Epidemiology 2025; 54(4):dyaf083.
 [![PubMed](./images/pubmed-icon.png "PubMed")](https://pubmed.ncbi.nlm.nih.gov/40527481/){width=0.5%}
 [![doi](./images/doi_logo_small2.png "doi")](https://doi.org/10.1093/ije/dyaf083)
